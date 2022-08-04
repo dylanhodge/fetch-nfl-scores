@@ -13,11 +13,11 @@ jobs:
         with:
           python-version: '3.10'
       - name: Generate weekly files
-      - run: |
+        run: |
           pip install -r requirements.txt
           python fetch-nfl-scores.py
       - name: Commit files to repo
-      - run: |
+        run: |
           git config --global user.name "Mr. Robot"
           git config --global user.email "dylanhodge@users.noreply.github.com"
           git commit -am "Automated score publication"
