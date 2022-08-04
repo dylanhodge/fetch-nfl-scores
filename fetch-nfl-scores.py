@@ -35,5 +35,5 @@ def get_week_info(season: int, season_type: int, week_num: int):
 
 
 if __name__ == '__main__':
-    for x in range(1, 18):
+    for x in range(1, 19):
         get_week_info(2022, 2, x)
