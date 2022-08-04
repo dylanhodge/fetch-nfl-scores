@@ -1,0 +1,24 @@
+name: fetch-nfl-scores
+on:
+  schedule:
+    - cron: '0/15 6-18 * 1,9,10,11,12 0,1,4,6'
+    - cron: '0 0/8 * 1,8,9,10,11,12 *'
+  workflow_dispatch:
+jobs:
+  fetch-nfl-scores:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Generate weekly files
+      - run: |
+          pip install -r requirements.txt
+          python fetch-nfl-scores.py
+      - name: Commit files to repo
+      - run: |
+          git config --global user.name "Mr. Robot"
+          git config --global user.email "dylanhodge@users.noreply.github.com"
+          git commit -am "Automated score publication"
+          git push
