@@ -1,13 +1,30 @@
 import datetime
 
 
+class Record(object):
+    def __init__(self, wins: int, losses: int, ties: int):
+        self.wins = wins
+        self.losses = losses
+        self.ties = ties
+
+
+class Team(object):
+    def __init__(self, name: str, abbrev: str, score: str, logo: str, record: Record, moneyline: str):
+        self.name = name
+        self.abbrev = abbrev
+        self.score = score
+        self.logo = logo
+        self.record = record
+        self.moneyline = moneyline
+
+
 class Game(object):
-    def __init__(self, home_team: str, away_team: str, start_time: datetime.datetime, home_score: str = 0, away_score: str = 0):
-        self.home_team = home_team
-        self.away_team = away_team
-        self.home_score = home_score
-        self.away_score = away_score
+    def __init__(self, home_team: Team, away_team: Team, start_time: datetime.datetime, spread: str, channels: list):
+        self.homeTeam = home_team
+        self.awayTeam = away_team
         self.start_time = start_time.strftime("%Y-%m-%d %H:%M")
+        self.spread = spread
+        self.channels = channels
 
 
 class Week(object):
