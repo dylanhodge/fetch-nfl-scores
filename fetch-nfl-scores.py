@@ -56,13 +56,10 @@ def get_record_info(url: str):
     return Record(0, 0, 0)
 
 
-def get_teams_info(team1_dict: dict, team2_dict: dict, odds_dict: dict):
-    team1_score_response = get_api_response(team1_dict["score"]["$ref"])
-    team2_score_response = get_api_response(team2_dict["score"]["$ref"])
-    team1_is_home = team1_dict["homeAway"] == "home"
-    team2_is_home = team2_dict["homeAway"] == "home"
-    team1_team_response = get_api_response(team1_dict["team"]["$ref"])
-    team2_team_response = get_api_response(team2_dict["team"]["$ref"])
+def get_team_info(team_dict: dict, odds_dict: dict):
+    score_response = get_api_response(team_dict["score"]["$ref"])
+    team_response = get_api_response(team_dict["team"]["$ref"])
+    team_is_home = team_dict["homeAway"] == "home"
 
     caesars_odds = find_caesars(odds_dict["items"])
 
@@ -71,40 +68,34 @@ def get_teams_info(team1_dict: dict, team2_dict: dict, odds_dict: dict):
         away_team_odds = caesars_odds["awayTeamOdds"]
 
         try:
-            team1_money_line = home_team_odds["moneyLine"] if team1_is_home else away_team_odds["moneyLine"]
-            team2_money_line = home_team_odds["moneyLine"] if team2_is_home else away_team_odds["moneyLine"]
+            money_line = home_team_odds["moneyLine"] if team_is_home else away_team_odds["moneyLine"]
         except KeyError:
-            team1_money_line = ""
-            team2_money_line = ""
+            money_line = ""
     else:
-        team1_money_line = ""
-        team2_money_line = ""
+        money_line = ""
 
-    team1 = Team(
-        team1_team_response["displayName"],
-        team1_team_response["abbreviation"],
-        team1_score_response["displayValue"],
-        team1_team_response["logos"][0]["href"],
-        get_record_info(team1_team_response["record"]["$ref"]),
-        team1_money_line
+    return Team(
+        name=team_response["displayName"],
+        abbrev=team_response["abbreviation"],
+        score=score_response["displayValue"],
+        logo=team_response["logos"][0]["href"],
+        record=get_record_info(team_response["record"]["$ref"]),
+        money_line=money_line
     )
 
-    team2 = Team(
-        team2_team_response["displayName"],
-        team2_team_response["abbreviation"],
-        team2_score_response["displayValue"],
-        team2_team_response["logos"][0]["href"],
-        get_record_info(team2_team_response["record"]["$ref"]),
-        team2_money_line
-    )
+
+def get_teams_info(team1_dict: dict, team2_dict: dict, odds_dict: dict):
+    team1 = get_team_info(team1_dict, odds_dict)
+    team2 = get_team_info(team2_dict, odds_dict)
 
     return [
-        team1 if team1_is_home else team2,
-        team2 if team1_is_home else team1
+        team1 if team1_dict["homeAway"] == "home" else team2,
+        team2 if team1_dict["homeAway"] == "home" else team1
     ]
 
 
 def get_week_info(season: int, season_type: int, week_num: int):
+    week_info_start_time = time.perf_counter()
     week_info_response = get_api_response(constants.WEEK_EVENTS.format(
         season=str(season),
         season_type=str(season_type),
@@ -119,27 +110,39 @@ def get_week_info(season: int, season_type: int, week_num: int):
             odds_response = get_api_response(competition["odds"]["$ref"])
             teams_info = get_teams_info(competitors[0], competitors[1], odds_response)
             game_start = datetime.datetime.strptime(game_info_response["date"], "%Y-%m-%dT%H:%MZ")
-            try:
-                caesars = find_caesars(odds_response["items"])
-                if caesars is not None:
-                    spread = find_caesars(odds_response["items"])["details"]
-                else:
-                    spread = ""
-            except KeyError:
+            caesars = find_caesars(odds_response["items"])
+            if caesars is not None:
+                spread = find_caesars(odds_response["items"]).get("details", "")
+            else:
                 spread = ""
             broadcast_response = get_api_response(competition["broadcasts"]["$ref"])
             channels = [station["station"] for station in broadcast_response["items"]]
-            week_games.append(Game(teams_info[0], teams_info[1], game_start, spread, channels))
+            week_games.append(Game(
+                game_id=game_info_response["id"],
+                home_team=teams_info[0],
+                away_team=teams_info[1],
+                start_time=game_start,
+                spread=spread,
+                channels=channels,
+                is_finished=competition["recapAvailable"]
+            ))
         except KeyError as e:
             print(item["$ref"])
             print(e)
             exit(1)
-    week = Week(season, season_type, week_num, week_games)
+    week = Week(
+        season=season,
+        season_type=season_type,
+        week_num=week_num,
+        games=week_games
+    )
     weeks_directory = f'api/seasons/{season}/weeks'
     if not os.path.exists(weeks_directory):
         os.makedirs(f'api/seasons/{season}/weeks')
     with open(f'api/seasons/{season}/weeks/{str(week_num).zfill(2)}.json', 'w') as f:
-        json.dump(json.loads(jsonpickle.encode(week)), f)
+        json.dump(json.loads(jsonpickle.encode(week)), f, indent=2)
+    week_info_end_time = time.perf_counter()
+    print(f"Gathered week #{week_num} info in {week_info_end_time - week_info_start_time} seconds")
 
 
 if __name__ == '__main__':

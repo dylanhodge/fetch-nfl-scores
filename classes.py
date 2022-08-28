@@ -9,22 +9,24 @@ class Record(object):
 
 
 class Team(object):
-    def __init__(self, name: str, abbrev: str, score: str, logo: str, record: Record, moneyline: str):
+    def __init__(self, name: str, abbrev: str, score: int, logo: str, record: Record, money_line: str):
         self.name = name
         self.abbrev = abbrev
         self.score = score
         self.logo = logo
         self.record = record
-        self.moneyline = moneyline
+        self.moneyLine = money_line
 
 
 class Game(object):
-    def __init__(self, home_team: Team, away_team: Team, start_time: datetime.datetime, spread: str, channels: list):
+    def __init__(self, game_id: str, home_team: Team, away_team: Team, start_time: datetime.datetime, spread: str, channels: list, is_finished: bool):
+        self.id = game_id
         self.homeTeam = home_team
         self.awayTeam = away_team
-        self.start_time = start_time.strftime("%Y-%m-%d %H:%M")
+        self.startTime = int(start_time.timestamp())
         self.spread = spread
         self.channels = channels
+        self.isFinished = is_finished
 
 
 class Week(object):
@@ -32,6 +34,8 @@ class Week(object):
         if games is None:
             games = []
         self.season = season
-        self.season_type = season_type
-        self.week_num = week_num
+        self.seasonType = season_type
+        self.weekNum = week_num
         self.games = games
+        games.sort(key=lambda game: game.startTime)
+        self.startTime = games[0].startTime
