@@ -35,7 +35,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "TB -7.0",
       "channels": [],
       "isFinished": false
@@ -71,7 +71,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "BUF -7.5",
       "channels": [],
       "isFinished": false
@@ -107,7 +107,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "MIN -2.5",
       "channels": [],
       "isFinished": false
@@ -143,7 +143,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "CIN -3.0",
       "channels": [],
       "isFinished": false
@@ -179,7 +179,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "DEN -1.0",
       "channels": [],
       "isFinished": false
@@ -215,7 +215,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "GB -9.0",
       "channels": [],
       "isFinished": false
@@ -251,7 +251,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "IND -9.0",
       "channels": [],
       "isFinished": false
@@ -287,7 +287,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "KC -2.0",
       "channels": [],
       "isFinished": false
@@ -323,7 +323,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "MIA -7.0",
       "channels": [],
       "isFinished": false
@@ -359,7 +359,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "NO -4.5",
       "channels": [],
       "isFinished": false
@@ -395,7 +395,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "PHI -3.5",
       "channels": [],
       "isFinished": false
@@ -431,7 +431,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "",
       "channels": [],
       "isFinished": false
@@ -467,7 +467,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "SF -2.5",
       "channels": [],
       "isFinished": false
@@ -503,7 +503,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "LAR -6.5",
       "channels": [],
       "isFinished": false
@@ -539,7 +539,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "DAL -1.0",
       "channels": [],
       "isFinished": false
@@ -575,11 +575,11 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1673175600,
+      "startTime": 1673154000,
       "spread": "TEN -4.0",
       "channels": [],
       "isFinished": false
     }
   ],
-  "startTime": 1673175600
+  "startTime": 1673154000
 }

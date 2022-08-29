@@ -35,7 +35,7 @@
         },
         "moneyLine": -110
       },
-      "startTime": 1665724500,
+      "startTime": 1665706500,
       "spread": "",
       "channels": [
         "PRIME VIDEO"
@@ -73,7 +73,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "SF -6.0",
       "channels": [
         "FOX"
@@ -111,7 +111,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "CLE -2.0",
       "channels": [
         "CBS"
@@ -149,7 +149,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "GB -9.5",
       "channels": [
         "FOX"
@@ -187,7 +187,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "IND -7.5",
       "channels": [
         "CBS"
@@ -225,7 +225,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "MIA -3.0",
       "channels": [
         "FOX"
@@ -263,7 +263,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "CIN -1.0",
       "channels": [
         "CBS"
@@ -301,7 +301,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "BAL -3.0",
       "channels": [
         "CBS"
@@ -339,7 +339,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665957600,
+      "startTime": 1665939600,
       "spread": "TB -4.5",
       "channels": [
         "FOX"
@@ -377,7 +377,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665968700,
+      "startTime": 1665950700,
       "spread": "LAR -8.5",
       "channels": [
         "FOX"
@@ -415,7 +415,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665968700,
+      "startTime": 1665950700,
       "spread": "ARI -3.0",
       "channels": [
         "FOX"
@@ -453,7 +453,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665969900,
+      "startTime": 1665951900,
       "spread": "BUF -1.0",
       "channels": [
         "CBS"
@@ -491,7 +491,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1665984000,
+      "startTime": 1665966000,
       "spread": "PHI -1.0",
       "channels": [
         "NBC"
@@ -529,7 +529,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1666070100,
+      "startTime": 1666052100,
       "spread": "LAC -3.0",
       "channels": [
         "ESPN"
@@ -537,5 +537,5 @@
       "isFinished": false
     }
   ],
-  "startTime": 1665724500
+  "startTime": 1665706500
 }
