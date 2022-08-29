@@ -1,5 +1,6 @@
 {
   "py/object": "classes.Week",
+  "id": "season-2022_week-8",
   "season": 2022,
   "seasonType": 2,
   "weekNum": 8,
@@ -11,7 +12,7 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbrev": "TB",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
@@ -25,7 +26,7 @@
         "py/object": "classes.Team",
         "name": "Baltimore Ravens",
         "abbrev": "BAL",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
         "record": {
           "py/object": "classes.Record",
@@ -35,7 +36,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1666934100,
+      "startTime": 1666916100,
       "spread": "TB -4.0",
       "channels": [
         "PRIME VIDEO"
@@ -49,7 +50,7 @@
         "py/object": "classes.Team",
         "name": "Jacksonville Jaguars",
         "abbrev": "JAX",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
         "record": {
           "py/object": "classes.Record",
@@ -63,7 +64,7 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbrev": "DEN",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
@@ -73,7 +74,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667154600,
+      "startTime": 1667136600,
       "spread": "DEN -6.0",
       "channels": [
         "ESPN+"
@@ -87,7 +88,7 @@
         "py/object": "classes.Team",
         "name": "Atlanta Falcons",
         "abbrev": "ATL",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
         "record": {
           "py/object": "classes.Record",
@@ -101,7 +102,7 @@
         "py/object": "classes.Team",
         "name": "Carolina Panthers",
         "abbrev": "CAR",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
         "record": {
           "py/object": "classes.Record",
@@ -111,7 +112,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "ATL -1.0",
       "channels": [
         "FOX"
@@ -125,7 +126,7 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
@@ -139,7 +140,7 @@
         "py/object": "classes.Team",
         "name": "Chicago Bears",
         "abbrev": "CHI",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
@@ -149,7 +150,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "DAL -6.5",
       "channels": [
         "FOX"
@@ -163,7 +164,7 @@
         "py/object": "classes.Team",
         "name": "Detroit Lions",
         "abbrev": "DET",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
         "record": {
           "py/object": "classes.Record",
@@ -177,7 +178,7 @@
         "py/object": "classes.Team",
         "name": "Miami Dolphins",
         "abbrev": "MIA",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
@@ -187,7 +188,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "MIA -3.5",
       "channels": [
         "CBS"
@@ -201,7 +202,7 @@
         "py/object": "classes.Team",
         "name": "Minnesota Vikings",
         "abbrev": "MIN",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
         "record": {
           "py/object": "classes.Record",
@@ -215,7 +216,7 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbrev": "ARI",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
@@ -225,7 +226,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "MIN -1.5",
       "channels": [
         "FOX"
@@ -239,7 +240,7 @@
         "py/object": "classes.Team",
         "name": "New Orleans Saints",
         "abbrev": "NO",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
         "record": {
           "py/object": "classes.Record",
@@ -253,7 +254,7 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbrev": "LV",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
@@ -263,7 +264,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "NO -1.0",
       "channels": [
         "CBS"
@@ -277,7 +278,7 @@
         "py/object": "classes.Team",
         "name": "New York Jets",
         "abbrev": "NYJ",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
@@ -291,7 +292,7 @@
         "py/object": "classes.Team",
         "name": "New England Patriots",
         "abbrev": "NE",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
         "record": {
           "py/object": "classes.Record",
@@ -301,7 +302,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "NE -2.0",
       "channels": [
         "CBS"
@@ -315,7 +316,7 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbrev": "PHI",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
@@ -329,7 +330,7 @@
         "py/object": "classes.Team",
         "name": "Pittsburgh Steelers",
         "abbrev": "PIT",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
         "record": {
           "py/object": "classes.Record",
@@ -339,7 +340,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667167200,
+      "startTime": 1667149200,
       "spread": "PHI -4.0",
       "channels": [
         "CBS"
@@ -353,7 +354,7 @@
         "py/object": "classes.Team",
         "name": "Houston Texans",
         "abbrev": "HOU",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
         "record": {
           "py/object": "classes.Record",
@@ -367,7 +368,7 @@
         "py/object": "classes.Team",
         "name": "Tennessee Titans",
         "abbrev": "TEN",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
@@ -377,7 +378,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667178300,
+      "startTime": 1667160300,
       "spread": "TEN -5.0",
       "channels": [
         "CBS"
@@ -391,7 +392,7 @@
         "py/object": "classes.Team",
         "name": "Indianapolis Colts",
         "abbrev": "IND",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
@@ -405,7 +406,7 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbrev": "WSH",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
@@ -415,7 +416,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667179500,
+      "startTime": 1667161500,
       "spread": "IND -6.0",
       "channels": [
         "FOX"
@@ -429,7 +430,7 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbrev": "LAR",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
@@ -443,7 +444,7 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbrev": "SF",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
@@ -453,7 +454,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667179500,
+      "startTime": 1667161500,
       "spread": "LAR -4.0",
       "channels": [
         "FOX"
@@ -467,7 +468,7 @@
         "py/object": "classes.Team",
         "name": "Seattle Seahawks",
         "abbrev": "SEA",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
@@ -481,7 +482,7 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbrev": "NYG",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
@@ -491,7 +492,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667179500,
+      "startTime": 1667161500,
       "spread": "SEA -2.0",
       "channels": [
         "FOX"
@@ -505,7 +506,7 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbrev": "BUF",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
@@ -519,7 +520,7 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
@@ -529,7 +530,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667193600,
+      "startTime": 1667175600,
       "spread": "BUF -4.0",
       "channels": [
         "NBC"
@@ -543,7 +544,7 @@
         "py/object": "classes.Team",
         "name": "Cleveland Browns",
         "abbrev": "CLE",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
         "record": {
           "py/object": "classes.Record",
@@ -557,7 +558,7 @@
         "py/object": "classes.Team",
         "name": "Cincinnati Bengals",
         "abbrev": "CIN",
-        "score": "0",
+        "score": 0,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
@@ -567,7 +568,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1667279700,
+      "startTime": 1667261700,
       "spread": "CIN -2.0",
       "channels": [
         "ESPN"
@@ -575,5 +576,5 @@
       "isFinished": false
     }
   ],
-  "startTime": 1666934100
+  "startTime": 1666916100
 }

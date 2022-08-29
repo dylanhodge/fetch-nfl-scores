@@ -2,6 +2,8 @@ import datetime
 import time
 import json
 import os
+import sys
+import simplejson
 
 import jsonpickle
 
@@ -13,7 +15,12 @@ from classes import Game, Week, Team, Record
 def get_api_response(url: str):
     get_api_response.counter += 1
     api_response = requests.get(url)
-    return api_response.json()
+    try:
+        return api_response.json()
+    except simplejson.JSONDecodeError as e:
+        print(f"JSON Failure on the following call: {url}")
+        print(e)
+        exit(1)
 
 
 def find_wins(stats_list: list):
@@ -77,7 +84,7 @@ def get_team_info(team_dict: dict, odds_dict: dict):
     return Team(
         name=team_response["displayName"],
         abbrev=team_response["abbreviation"],
-        score=score_response["displayValue"],
+        score=int(score_response["displayValue"]),
         logo=team_response["logos"][0]["href"],
         record=get_record_info(team_response["record"]["$ref"]),
         money_line=money_line
@@ -137,15 +144,35 @@ def get_week_info(season: int, season_type: int, week_num: int):
         games=week_games
     )
     weeks_directory = f'api/seasons/{season}/weeks'
+
+    json_document = json.loads(jsonpickle.encode(week))
+
     if not os.path.exists(weeks_directory):
         os.makedirs(f'api/seasons/{season}/weeks')
     with open(f'api/seasons/{season}/weeks/{str(week_num).zfill(2)}.json', 'w') as f:
-        json.dump(json.loads(jsonpickle.encode(week)), f, indent=2)
+        json.dump(json_document, f, indent=2)
+
+    headers = {"Content-Type": "application/json"}
+    requests.put(f"http://localhost:8080/api/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
     week_info_end_time = time.perf_counter()
     print(f"Gathered week #{week_num} info in {week_info_end_time - week_info_start_time} seconds")
 
 
+def set_timezone_as_utc():
+    if sys.platform != 'win32':
+        os.environ['TZ'] = 'UTC'
+        time.tzset()
+    else:
+        os.system('tzutil /s "UTC"')
+
+
+def set_timezone_as_cst_local():
+    if sys.platform == 'win32':
+        os.system('tzutil /s "Central Standard Time"')
+
+
 if __name__ == '__main__':
+    set_timezone_as_utc()
     get_api_response.counter = 0
     start_time = time.perf_counter()
     for x in range(1, 19):
@@ -153,3 +180,4 @@ if __name__ == '__main__':
     end_time = time.perf_counter()
     print(f"Gathered season data in {end_time - start_time} seconds")
     print(f"{get_api_response.counter} API calls were made")
+    set_timezone_as_cst_local()

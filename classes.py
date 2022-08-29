@@ -33,6 +33,7 @@ class Week(object):
     def __init__(self, season: int, season_type: int, week_num: int, games=None):
         if games is None:
             games = []
+        self.id = f"season-{season}_week-{week_num}"
         self.season = season
         self.seasonType = season_type
         self.weekNum = week_num
