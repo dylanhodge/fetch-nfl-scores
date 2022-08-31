@@ -152,8 +152,8 @@ def get_week_info(season: int, season_type: int, week_num: int):
     with open(f'api/seasons/{season}/weeks/{str(week_num).zfill(2)}.json', 'w') as f:
         json.dump(json_document, f, indent=2)
 
-    headers = {"Content-Type": "application/json"}
-    requests.put(f"http://localhost:8080/api/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
+    # headers = {"Content-Type": "application/json"}
+    # requests.put(f"http://localhost:8080/api/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
     week_info_end_time = time.perf_counter()
     print(f"Gathered week #{week_num} info in {week_info_end_time - week_info_start_time} seconds")
 
