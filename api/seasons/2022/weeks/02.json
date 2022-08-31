@@ -58,7 +58,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -225
+        "moneyLine": -220
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -72,7 +72,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 185
+        "moneyLine": 190
       },
       "startTime": 1663520400,
       "spread": "CLE -5.5",
@@ -134,7 +134,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 150
+        "moneyLine": 145
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -148,7 +148,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -170
+        "moneyLine": -165
       },
       "startTime": 1663520400,
       "spread": "TB -4.0",
@@ -417,7 +417,7 @@
         "moneyLine": 105
       },
       "startTime": 1663532700,
-      "spread": "DAL -2.5",
+      "spread": "DAL -2.0",
       "channels": [
         "CBS"
       ],

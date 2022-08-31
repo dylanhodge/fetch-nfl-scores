@@ -94,7 +94,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -115
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -108,10 +108,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -105
       },
       "startTime": 1671339600,
-      "spread": "",
+      "spread": "CLE -1.0",
       "channels": [],
       "isFinished": false
     },
