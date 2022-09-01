@@ -183,7 +183,7 @@ if __name__ == '__main__':
     set_timezone_as_utc()
     get_api_response.counter = 0
     start_time = time.perf_counter()
-    with ThreadPool(18) as t:
+    with ThreadPool(8) as t:
         t.map(lambda week_num: get_week_info(2022, 2, week_num), [x for x in range(1, 19)])
     end_time = time.perf_counter()
     print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
