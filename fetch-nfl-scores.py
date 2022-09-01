@@ -161,6 +161,7 @@ def get_week_info(season: int, season_type: int, week_num: int):
 
     headers = {"Content-Type": "application/json"}
     requests.put(f"https://api.winnersmadehere.com/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
+
     week_info_end_time = time.perf_counter()
     print(f"Gathered week #{week_num} info in {round(week_info_end_time - week_info_start_time, 5)} seconds")
 
