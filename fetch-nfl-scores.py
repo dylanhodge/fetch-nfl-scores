@@ -10,6 +10,7 @@ import jsonpickle
 import constants
 import requests
 from classes import Game, Week, Team, Record
+from multiprocessing.pool import ThreadPool
 
 
 def get_api_response(url: str):
@@ -25,21 +26,21 @@ def get_api_response(url: str):
 
 def find_wins(stats_list: list):
     for item in stats_list:
-        if item["name"] == "Wins":
+        if item["name"] == "wins":
             return int(item["displayValue"])
     return 0
 
 
 def find_losses(stats_list: list):
     for item in stats_list:
-        if item["name"] == "Losses":
+        if item["name"] == "losses":
             return int(item["displayValue"])
     return 0
 
 
 def find_ties(stats_list: list):
     for item in stats_list:
-        if item["name"] == "Ties":
+        if item["name"] == "ties":
             return int(item["displayValue"])
     return 0
 
@@ -61,6 +62,11 @@ def get_record_info(url: str):
         ties = find_ties(record_response["items"][0]["stats"])
         return Record(wins, losses, ties)
     return Record(0, 0, 0)
+
+
+def is_game_finished(url: str):
+    status_response = get_api_response(url)
+    return status_response["type"]["completed"]
 
 
 def get_team_info(team_dict: dict, odds_dict: dict):
@@ -124,6 +130,7 @@ def get_week_info(season: int, season_type: int, week_num: int):
                 spread = ""
             broadcast_response = get_api_response(competition["broadcasts"]["$ref"])
             channels = [station["station"] for station in broadcast_response["items"]]
+            is_finished = is_game_finished(competition["status"]["$ref"])
             week_games.append(Game(
                 game_id=game_info_response["id"],
                 home_team=teams_info[0],
@@ -131,7 +138,7 @@ def get_week_info(season: int, season_type: int, week_num: int):
                 start_time=game_start,
                 spread=spread,
                 channels=channels,
-                is_finished=competition["recapAvailable"]
+                is_finished=is_finished
             ))
         except KeyError as e:
             print(item["$ref"])
@@ -153,9 +160,9 @@ def get_week_info(season: int, season_type: int, week_num: int):
         json.dump(json_document, f, indent=2)
 
     headers = {"Content-Type": "application/json"}
-    requests.put(f"http://localhost:8080/api/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
+    requests.put(f"https://api.winnersmadehere.com/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
     week_info_end_time = time.perf_counter()
-    print(f"Gathered week #{week_num} info in {week_info_end_time - week_info_start_time} seconds")
+    print(f"Gathered week #{week_num} info in {round(week_info_end_time - week_info_start_time, 5)} seconds")
 
 
 def set_timezone_as_utc():
@@ -175,9 +182,9 @@ if __name__ == '__main__':
     set_timezone_as_utc()
     get_api_response.counter = 0
     start_time = time.perf_counter()
-    for x in range(1, 19):
-        get_week_info(2022, 2, x)
+    with ThreadPool(18) as t:
+        t.map(lambda week_num: get_week_info(2022, 2, week_num), [x for x in range(1, 19)])
     end_time = time.perf_counter()
-    print(f"Gathered season data in {end_time - start_time} seconds")
+    print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
     print(f"{get_api_response.counter} API calls were made")
     set_timezone_as_cst_local()
