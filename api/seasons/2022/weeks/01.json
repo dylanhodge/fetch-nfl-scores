@@ -41,7 +41,7 @@
       "channels": [
         "NBC"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -79,7 +79,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -117,7 +117,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -155,7 +155,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -193,7 +193,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -231,7 +231,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -269,7 +269,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -307,7 +307,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -345,7 +345,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -383,7 +383,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -421,7 +421,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -459,7 +459,7 @@
       "channels": [
         "FOX"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -497,7 +497,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -535,7 +535,7 @@
       "channels": [
         "CBS"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -573,7 +573,7 @@
       "channels": [
         "NBC"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "py/object": "classes.Game",
@@ -612,7 +612,7 @@
         "ESPN",
         "ABC"
       ],
-      "isFinished": true
+      "isFinished": false
     }
   ],
   "startTime": 1662682800
