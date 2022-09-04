@@ -134,7 +134,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 145
+        "moneyLine": 143
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -148,10 +148,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -165
+        "moneyLine": -170
       },
       "startTime": 1663520400,
-      "spread": "TB -4.0",
+      "spread": "TB -3.0",
       "channels": [
         "FOX"
       ],
