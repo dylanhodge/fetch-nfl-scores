@@ -185,5 +185,8 @@ if __name__ == '__main__':
     end_time = time.perf_counter()
     print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
     print(f"{get_api_response.counter} API calls were made")
+    start_time = time.perf_counter()
     requests.put(f"https://api.winnersmadehere.com/updateScores")
+    end_time = time.perf_counter()
+    print(f"Updated scores in {round(end_time - start_time, 5)} seconds")
     set_timezone_as_cst_local()
