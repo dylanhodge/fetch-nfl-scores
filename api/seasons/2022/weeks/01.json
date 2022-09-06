@@ -20,7 +20,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 120
+        "moneyLine": 115
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -140
+        "moneyLine": -135
       },
       "startTime": 1662682800,
       "spread": "LAR -1.0",
@@ -324,7 +324,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -135
+        "moneyLine": -145
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -338,10 +338,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 115
+        "moneyLine": 125
       },
       "startTime": 1662915600,
-      "spread": "CAR -2.0",
+      "spread": "CAR -2.5",
       "channels": [
         "CBS"
       ],
