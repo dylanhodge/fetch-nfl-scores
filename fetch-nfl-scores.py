@@ -128,8 +128,6 @@ def get_week_info(season: int, season_type: int, week_num: int):
                 spread = find_caesars(odds_response["items"]).get("details", "")
             else:
                 spread = ""
-            broadcast_response = get_api_response(competition["broadcasts"]["$ref"])
-            channels = [station["station"] for station in broadcast_response["items"]]
             is_finished = is_game_finished(competition["status"]["$ref"])
             week_games.append(Game(
                 game_id=game_info_response["id"],
@@ -137,7 +135,6 @@ def get_week_info(season: int, season_type: int, week_num: int):
                 away_team=teams_info[1],
                 start_time=game_start,
                 spread=spread,
-                channels=channels,
                 is_finished=is_finished
             ))
         except KeyError as e:
@@ -188,4 +185,5 @@ if __name__ == '__main__':
     end_time = time.perf_counter()
     print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
     print(f"{get_api_response.counter} API calls were made")
+    requests.put(f"https://api.winnersmadehere.com/updateScores")
     set_timezone_as_cst_local()

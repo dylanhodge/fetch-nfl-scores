@@ -19,13 +19,12 @@ class Team(object):
 
 
 class Game(object):
-    def __init__(self, game_id: str, home_team: Team, away_team: Team, start_time: datetime.datetime, spread: str, channels: list, is_finished: bool):
+    def __init__(self, game_id: str, home_team: Team, away_team: Team, start_time: datetime.datetime, spread: str, is_finished: bool):
         self.id = game_id
         self.homeTeam = home_team
         self.awayTeam = away_team
         self.startTime = int(start_time.timestamp())
         self.spread = spread
-        self.channels = channels
         self.isFinished = is_finished
 
 
