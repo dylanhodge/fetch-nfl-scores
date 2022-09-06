@@ -38,9 +38,6 @@
       },
       "startTime": 1662682800,
       "spread": "LAR -1.0",
-      "channels": [
-        "NBC"
-      ],
       "isFinished": false
     },
     {
@@ -76,9 +73,6 @@
       },
       "startTime": 1662915600,
       "spread": "NO -4.0",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -114,9 +108,6 @@
       },
       "startTime": 1662915600,
       "spread": "SF -6.0",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -152,9 +143,6 @@
       },
       "startTime": 1662915600,
       "spread": "CIN -6.5",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -190,9 +178,6 @@
       },
       "startTime": 1662915600,
       "spread": "PHI -3.5",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -228,9 +213,6 @@
       },
       "startTime": 1662915600,
       "spread": "MIA -3.0",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -266,9 +248,6 @@
       },
       "startTime": 1662915600,
       "spread": "BAL -7.0",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -304,9 +283,6 @@
       },
       "startTime": 1662915600,
       "spread": "WSH -3.0",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -342,9 +318,6 @@
       },
       "startTime": 1662915600,
       "spread": "CAR -2.5",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -380,9 +353,6 @@
       },
       "startTime": 1662915600,
       "spread": "IND -7.5",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -418,9 +388,6 @@
       },
       "startTime": 1662927900,
       "spread": "TEN -6.0",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -456,9 +423,6 @@
       },
       "startTime": 1662927900,
       "spread": "GB -1.5",
-      "channels": [
-        "FOX"
-      ],
       "isFinished": false
     },
     {
@@ -494,9 +458,6 @@
       },
       "startTime": 1662927900,
       "spread": "KC -3.0",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -532,9 +493,6 @@
       },
       "startTime": 1662927900,
       "spread": "LAC -3.0",
-      "channels": [
-        "CBS"
-      ],
       "isFinished": false
     },
     {
@@ -570,9 +528,6 @@
       },
       "startTime": 1662942000,
       "spread": "TB -2.5",
-      "channels": [
-        "NBC"
-      ],
       "isFinished": false
     },
     {
@@ -608,10 +563,6 @@
       },
       "startTime": 1663028100,
       "spread": "DEN -4.0",
-      "channels": [
-        "ESPN",
-        "ABC"
-      ],
       "isFinished": false
     }
   ],
