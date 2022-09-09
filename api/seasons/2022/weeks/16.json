@@ -20,7 +20,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -135
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,11 +34,11 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": 115
       },
       "startTime": 1671758100,
-      "spread": "NYJ -1.5",
-      "isFinished": false
+      "spread": "NYJ -2.5",
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -73,7 +73,7 @@
       },
       "startTime": 1671904800,
       "spread": "",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -108,7 +108,7 @@
       },
       "startTime": 1671904800,
       "spread": "CLE -3.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -143,7 +143,7 @@
       },
       "startTime": 1671904800,
       "spread": "TEN -7.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -178,7 +178,7 @@
       },
       "startTime": 1671904800,
       "spread": "KC -11.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -213,7 +213,7 @@
       },
       "startTime": 1671904800,
       "spread": "MIN -6.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -248,7 +248,7 @@
       },
       "startTime": 1671904800,
       "spread": "",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -283,7 +283,7 @@
       },
       "startTime": 1671904800,
       "spread": "CAR -3.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -318,7 +318,7 @@
       },
       "startTime": 1671904800,
       "spread": "BAL -8.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -353,7 +353,7 @@
       },
       "startTime": 1671915900,
       "spread": "SF -7.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -388,7 +388,7 @@
       },
       "startTime": 1671917100,
       "spread": "DAL -3.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -423,7 +423,7 @@
       },
       "startTime": 1671930900,
       "spread": "LV -2.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -458,7 +458,7 @@
       },
       "startTime": 1671991200,
       "spread": "GB -1.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -493,7 +493,7 @@
       },
       "startTime": 1672003800,
       "spread": "",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -528,7 +528,7 @@
       },
       "startTime": 1672017600,
       "spread": "TB -1.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -563,7 +563,7 @@
       },
       "startTime": 1672103700,
       "spread": "EVEN",
-      "isFinished": false
+      "finished": false
     }
   ],
   "startTime": 1671758100

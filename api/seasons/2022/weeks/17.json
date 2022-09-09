@@ -38,7 +38,7 @@
       },
       "startTime": 1672362900,
       "spread": "TEN -2.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -73,7 +73,7 @@
       },
       "startTime": 1672596000,
       "spread": "ARI -4.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -108,7 +108,7 @@
       },
       "startTime": 1672596000,
       "spread": "DET -1.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -143,7 +143,7 @@
       },
       "startTime": 1672596000,
       "spread": "KC -4.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -178,7 +178,7 @@
       },
       "startTime": 1672596000,
       "spread": "NE -1.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -213,7 +213,7 @@
       },
       "startTime": 1672596000,
       "spread": "IND -2.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -248,7 +248,7 @@
       },
       "startTime": 1672596000,
       "spread": "PHI -3.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -283,7 +283,7 @@
       },
       "startTime": 1672596000,
       "spread": "TB -9.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -318,7 +318,7 @@
       },
       "startTime": 1672596000,
       "spread": "CLE -2.5",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -353,7 +353,7 @@
       },
       "startTime": 1672596000,
       "spread": "BAL -6.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -388,7 +388,7 @@
       },
       "startTime": 1672596000,
       "spread": "JAX -1.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -423,7 +423,7 @@
       },
       "startTime": 1672607100,
       "spread": "SF -2.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -458,7 +458,7 @@
       },
       "startTime": 1672607100,
       "spread": "SEA -2.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -493,7 +493,7 @@
       },
       "startTime": 1672608300,
       "spread": "GB -6.0",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -528,7 +528,7 @@
       },
       "startTime": 1672622400,
       "spread": "",
-      "isFinished": false
+      "finished": false
     },
     {
       "py/object": "classes.Game",
@@ -563,7 +563,7 @@
       },
       "startTime": 1672709400,
       "spread": "",
-      "isFinished": false
+      "finished": false
     }
   ],
   "startTime": 1672362900

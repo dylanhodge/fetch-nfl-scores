@@ -47,7 +47,13 @@ def find_ties(stats_list: list):
 
 def find_caesars(odds_items: list):
     for item in odds_items:
+        if item["provider"]["name"] == "consensus":
+            return item
+    for item in odds_items:
         if item["provider"]["name"] == "Caesars Sportsbook":
+            return item
+    for item in odds_items:
+        if item["provider"]["name"] == "DraftKings":
             return item
     if len(odds_items) > 0:
         return odds_items[0]
@@ -140,7 +146,7 @@ def get_week_info(season: int, season_type: int, week_num: int):
         except KeyError as e:
             print(item["$ref"])
             print(e)
-            exit(1)
+            return
     week = Week(
         season=season,
         season_type=season_type,
