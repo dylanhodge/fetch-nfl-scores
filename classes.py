@@ -25,7 +25,7 @@ class Game(object):
         self.awayTeam = away_team
         self.startTime = int(start_time.timestamp())
         self.spread = spread
-        self.isFinished = is_finished
+        self.finished = is_finished
 
 
 class Week(object):
