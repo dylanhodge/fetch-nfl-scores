@@ -163,7 +163,9 @@ def get_week_info(season: int, season_type: int, week_num: int):
         json.dump(json_document, f, indent=2)
 
     headers = {"Content-Type": "application/json"}
-    requests.put(f"https://api.winnersmadehere.com/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
+    response = requests.put(f"https://api.winnersmadehere.com/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
+    if response.status_code != 200:
+        print(f"Unable to post scores for season {season} and week #{week_num} with status {response.status_code}")
 
     week_info_end_time = time.perf_counter()
     print(f"Gathered week #{week_num} info in {round(week_info_end_time - week_info_start_time, 5)} seconds")
@@ -192,7 +194,9 @@ if __name__ == '__main__':
     print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
     print(f"{get_api_response.counter} API calls were made")
     start_time = time.perf_counter()
-    requests.put(f"https://api.winnersmadehere.com/updateScores")
+    response = requests.put(f"https://api.winnersmadehere.com/updateScores")
+    if response.status_code != 200:
+        print(f"Unable to update scores with status {response.status_code}")
     end_time = time.perf_counter()
     print(f"Updated scores in {round(end_time - start_time, 5)} seconds")
     set_timezone_as_cst_local()
