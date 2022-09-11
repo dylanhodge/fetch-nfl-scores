@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1672622400,
-      "spread": "",
+      "spread": "LAC -1.5",
       "finished": false
     },
     {
@@ -562,7 +562,7 @@
         "moneyLine": ""
       },
       "startTime": 1672709400,
-      "spread": "",
+      "spread": "BUF -1.0",
       "finished": false
     }
   ],
