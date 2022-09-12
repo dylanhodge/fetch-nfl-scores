@@ -502,12 +502,12 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 3,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 114
@@ -516,11 +516,11 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbrev": "TB",
-        "score": 0,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
@@ -528,7 +528,7 @@
       },
       "startTime": 1662942000,
       "spread": "TB -2.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -545,7 +545,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 241
+        "moneyLine": 244
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -302
+        "moneyLine": -307
       },
       "startTime": 1663028100,
       "spread": "DEN -6.5",
