@@ -362,12 +362,12 @@
         "py/object": "classes.Team",
         "name": "Tennessee Titans",
         "abbrev": "TEN",
-        "score": 13,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": -244
@@ -376,11 +376,11 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbrev": "NYG",
-        "score": 0,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
@@ -388,7 +388,7 @@
       },
       "startTime": 1662927900,
       "spread": "TEN -5.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -397,11 +397,11 @@
         "py/object": "classes.Team",
         "name": "Minnesota Vikings",
         "abbrev": "MIN",
-        "score": 17,
+        "score": 23,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
@@ -411,19 +411,19 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 0,
+        "score": 7,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 106
       },
       "startTime": 1662927900,
       "spread": "MIN -2.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,12 +432,12 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbrev": "ARI",
-        "score": 7,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 210
@@ -446,11 +446,11 @@
         "py/object": "classes.Team",
         "name": "Kansas City Chiefs",
         "abbrev": "KC",
-        "score": 23,
+        "score": 44,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
@@ -458,7 +458,7 @@
       },
       "startTime": 1662927900,
       "spread": "KC -6.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -467,11 +467,11 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Chargers",
         "abbrev": "LAC",
-        "score": 17,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
@@ -481,19 +481,19 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbrev": "LV",
-        "score": 3,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 154
       },
       "startTime": 1662927900,
       "spread": "LAC -3.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
