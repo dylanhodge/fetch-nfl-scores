@@ -37,7 +37,7 @@
         "moneyLine": ""
       },
       "startTime": 1666311300,
-      "spread": "",
+      "spread": "ARI -2.0",
       "finished": false
     },
     {
@@ -72,7 +72,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "CIN -10.0",
       "finished": false
     },
     {
@@ -125,7 +125,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 0,
           "ties": 1
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "TEN -1.0",
       "finished": false
     },
     {
@@ -177,7 +177,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "GB -3.5",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "TB -6.0",
       "finished": false
     },
     {
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "JAX -1.0",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "BAL -5.5",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1666555500,
-      "spread": "",
+      "spread": "DEN -8.0",
       "finished": false
     },
     {
@@ -352,7 +352,7 @@
         "moneyLine": ""
       },
       "startTime": 1666555500,
-      "spread": "",
+      "spread": "LV -7.5",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1666556700,
-      "spread": "",
+      "spread": "LAC -7.5",
       "finished": false
     },
     {
@@ -422,7 +422,7 @@
         "moneyLine": ""
       },
       "startTime": 1666556700,
-      "spread": "",
+      "spread": "KC -2.5",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1666570800,
-      "spread": "",
+      "spread": "MIA -4.5",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": ""
       },
       "startTime": 1666656900,
-      "spread": "",
+      "spread": "NE -6.0",
       "finished": false
     }
   ],
