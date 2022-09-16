@@ -121,7 +121,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "ties": 0
         },
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "KC -4.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -507,7 +507,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1672622400,
-      "spread": "LAC -1.5",
+      "spread": "",
       "finished": false
     },
     {
