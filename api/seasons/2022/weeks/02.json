@@ -52,7 +52,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": -176
@@ -65,7 +65,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "ties": 0
         },
@@ -73,7 +73,7 @@
       },
       "startTime": 1663520400,
       "spread": "BAL -3.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -292,7 +292,7 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbrev": "LAR",
-        "score": 0,
+        "score": 7,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
