@@ -42,41 +42,6 @@
     },
     {
       "py/object": "classes.Game",
-      "id": "401437633",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Baltimore Ravens",
-        "abbrev": "BAL",
-        "score": 38,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 1,
-          "ties": 0
-        },
-        "moneyLine": -176
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Miami Dolphins",
-        "abbrev": "MIA",
-        "score": 42,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 2,
-          "losses": 0,
-          "ties": 0
-        },
-        "moneyLine": 148
-      },
-      "startTime": 1663520400,
-      "spread": "BAL -3.5",
-      "finished": true
-    },
-    {
-      "py/object": "classes.Game",
       "id": "401437635",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -287,16 +252,51 @@
     },
     {
       "py/object": "classes.Game",
+      "id": "401437633",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Baltimore Ravens",
+        "abbrev": "BAL",
+        "score": 38,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0
+        },
+        "moneyLine": -176
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Miami Dolphins",
+        "abbrev": "MIA",
+        "score": 42,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0
+        },
+        "moneyLine": 148
+      },
+      "startTime": 1663520400,
+      "spread": "BAL -3.5",
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
       "id": "401437733",
       "homeTeam": {
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbrev": "LAR",
-        "score": 7,
+        "score": 31,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
@@ -306,19 +306,19 @@
         "py/object": "classes.Team",
         "name": "Atlanta Falcons",
         "abbrev": "ATL",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 374
       },
       "startTime": 1663531500,
       "spread": "LAR -10.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -327,11 +327,11 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbrev": "SF",
-        "score": 3,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
@@ -341,19 +341,19 @@
         "py/object": "classes.Team",
         "name": "Seattle Seahawks",
         "abbrev": "SEA",
-        "score": 0,
+        "score": 7,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 306
       },
       "startTime": 1663531500,
       "spread": "SF -8.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -362,33 +362,33 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 266
+        "moneyLine": 271
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Cincinnati Bengals",
         "abbrev": "CIN",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -336
+        "moneyLine": -342
       },
       "startTime": 1663532700,
       "spread": "CIN -7.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -397,33 +397,33 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbrev": "DEN",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -478
+        "moneyLine": -481
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Houston Texans",
         "abbrev": "HOU",
-        "score": 0,
+        "score": 9,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 1
         },
-        "moneyLine": 361
+        "moneyLine": 365
       },
       "startTime": 1663532700,
       "spread": "DEN -10.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,33 +432,33 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbrev": "LV",
-        "score": 0,
+        "score": 23,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -232
+        "moneyLine": -234
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbrev": "ARI",
-        "score": 0,
+        "score": 29,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 189
+        "moneyLine": 192
       },
       "startTime": 1663532700,
       "spread": "LV -5.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -487
+        "moneyLine": -491
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 365
+        "moneyLine": 368
       },
       "startTime": 1663546800,
       "spread": "GB -10.0",
@@ -510,7 +510,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -471
+        "moneyLine": -473
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 358
+        "moneyLine": 359
       },
       "startTime": 1663629300,
       "spread": "BUF -10.0",
@@ -545,7 +545,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -138
+        "moneyLine": -137
       },
       "awayTeam": {
         "py/object": "classes.Team",
