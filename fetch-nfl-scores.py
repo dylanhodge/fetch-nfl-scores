@@ -4,9 +4,7 @@ import json
 import os
 import sys
 import simplejson
-
 import jsonpickle
-
 import constants
 import requests
 from classes import Game, Week, Team, Record
@@ -126,7 +124,10 @@ def get_week_info(season: int, season_type: int, week_num: int):
             game_info_response = get_api_response(item["$ref"])
             competition = game_info_response.get("competitions")[0]
             competitors = competition.get("competitors")
-            odds_response = get_api_response(competition["odds"]["$ref"])
+            try:
+                odds_response = get_api_response(competition["odds"]["$ref"])
+            except KeyError as e:
+                odds_response = {"items": []}
             teams_info = get_teams_info(competitors[0], competitors[1], odds_response)
             game_start = datetime.datetime.strptime(game_info_response["date"], "%Y-%m-%dT%H:%MZ")
             caesars = find_caesars(odds_response["items"])
