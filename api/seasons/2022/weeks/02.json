@@ -467,11 +467,11 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 10,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
@@ -481,19 +481,19 @@
         "py/object": "classes.Team",
         "name": "Chicago Bears",
         "abbrev": "CHI",
-        "score": 7,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 368
       },
       "startTime": 1663546800,
       "spread": "GB -10.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -510,7 +510,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -473
+        "moneyLine": -489
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 359
+        "moneyLine": 369
       },
       "startTime": 1663629300,
       "spread": "BUF -10.0",
@@ -545,7 +545,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -137
+        "moneyLine": -141
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 115
+        "moneyLine": 119
       },
       "startTime": 1663633800,
       "spread": "PHI -2.5",
