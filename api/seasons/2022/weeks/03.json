@@ -20,7 +20,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -208
+        "moneyLine": -207
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 172
+        "moneyLine": 171
       },
       "startTime": 1663892100,
       "spread": "CLE -4.5",
@@ -55,7 +55,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -156
+        "moneyLine": -158
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,7 +69,7 @@
           "losses": 1,
           "ties": 1
         },
-        "moneyLine": 131
+        "moneyLine": 133
       },
       "startTime": 1664125200,
       "spread": "CHI -3.0",
@@ -125,7 +125,7 @@
           "losses": 1,
           "ties": 1
         },
-        "moneyLine": 228
+        "moneyLine": 229
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,7 +139,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -281
+        "moneyLine": -282
       },
       "startTime": 1664125200,
       "spread": "KC -6.5",
@@ -160,7 +160,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 190
+        "moneyLine": 193
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,7 +174,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -231
+        "moneyLine": -235
       },
       "startTime": 1664125200,
       "spread": "BUF -5.5",
@@ -195,7 +195,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -253
+        "moneyLine": -252
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 204
+        "moneyLine": 203
       },
       "startTime": 1664125200,
       "spread": "MIN -6.0",
@@ -265,7 +265,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 183
+        "moneyLine": 182
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,10 +279,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -225
+        "moneyLine": -224
       },
       "startTime": 1664125200,
-      "spread": "CIN -4.5",
+      "spread": "CIN -5.0",
       "finished": false
     },
     {
@@ -370,7 +370,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -331
+        "moneyLine": -329
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -405,7 +405,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 157
+        "moneyLine": 156
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,7 +419,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -187
+        "moneyLine": -186
       },
       "startTime": 1664137500,
       "spread": "LAR -3.5",
@@ -475,7 +475,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -132
+        "moneyLine": -131
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 111
+        "moneyLine": 109
       },
       "startTime": 1664137500,
       "spread": "TB -1.5",
@@ -510,7 +510,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 102
+        "moneyLine": 101
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -123
+        "moneyLine": -121
       },
       "startTime": 1664151600,
       "spread": "SF -1.5",
@@ -545,7 +545,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -140
+        "moneyLine": -136
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 117
+        "moneyLine": 114
       },
       "startTime": 1664237700,
       "spread": "NYG -2.5",

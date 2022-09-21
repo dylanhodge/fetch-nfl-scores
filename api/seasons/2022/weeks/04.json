@@ -20,7 +20,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -120
+        "moneyLine": -130
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,10 +34,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 100
+        "moneyLine": 110
       },
       "startTime": 1664496900,
-      "spread": "CIN -1.5",
+      "spread": "CIN -2.0",
       "finished": false
     },
     {
@@ -90,7 +90,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 145
+        "moneyLine": 135
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -104,7 +104,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -170
+        "moneyLine": -155
       },
       "startTime": 1664730000,
       "spread": "CLE -3.0",
@@ -125,7 +125,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -130
+        "moneyLine": -155
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 110
+        "moneyLine": 135
       },
       "startTime": 1664730000,
-      "spread": "DAL -2.5",
+      "spread": "DAL -3.0",
       "finished": false
     },
     {
@@ -160,7 +160,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -215
+        "moneyLine": -245
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,7 +174,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 185
+        "moneyLine": 205
       },
       "startTime": 1664730000,
       "spread": "DET -5.5",
@@ -195,7 +195,7 @@
           "losses": 1,
           "ties": 1
         },
-        "moneyLine": -180
+        "moneyLine": -170
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 155
+        "moneyLine": 150
       },
       "startTime": 1664730000,
       "spread": "IND -3.5",
@@ -244,7 +244,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 140
+        "moneyLine": 145
       },
       "startTime": 1664730000,
       "spread": "NYG -3.0",
@@ -265,7 +265,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -305
+        "moneyLine": -320
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,7 +279,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 255
+        "moneyLine": 260
       },
       "startTime": 1664730000,
       "spread": "PHI -7.0",
@@ -335,7 +335,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 160
+        "moneyLine": 165
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -349,7 +349,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -190
+        "moneyLine": -185
       },
       "startTime": 1664730000,
       "spread": "BUF -4.0",
@@ -384,7 +384,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -315
+        "moneyLine": -320
       },
       "startTime": 1664730000,
       "spread": "LAC -7.0",
@@ -440,7 +440,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -260
+        "moneyLine": -275
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,7 +454,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 220
+        "moneyLine": 235
       },
       "startTime": 1664742300,
       "spread": "GB -6.5",
@@ -475,7 +475,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -120
+        "moneyLine": -130
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,10 +489,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 100
+        "moneyLine": 110
       },
       "startTime": 1664742300,
-      "spread": "LV -1.5",
+      "spread": "LV -2.0",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -105
+        "moneyLine": 105
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": -125
       },
       "startTime": 1664756400,
-      "spread": "KC -1.0",
+      "spread": "KC -1.5",
       "finished": false
     },
     {
@@ -545,7 +545,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": -120
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -105
+        "moneyLine": 100
       },
       "startTime": 1664842500,
       "spread": "SF -1.0",
