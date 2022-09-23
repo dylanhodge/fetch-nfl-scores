@@ -37,7 +37,7 @@
         "moneyLine": 103
       },
       "startTime": 1664496900,
-      "spread": "CIN -2.0",
+      "spread": "CIN -1.5",
       "finished": false
     },
     {
@@ -90,7 +90,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 135
+        "moneyLine": 143
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -100,11 +100,11 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": -170
       },
       "startTime": 1664730000,
       "spread": "CLE -3.0",
@@ -195,7 +195,7 @@
           "losses": 1,
           "ties": 1
         },
-        "moneyLine": -185
+        "moneyLine": -187
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 159
+        "moneyLine": 160
       },
       "startTime": 1664730000,
       "spread": "IND -3.5",
@@ -297,10 +297,10 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -172
+        "moneyLine": -170
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -314,7 +314,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 148
+        "moneyLine": 147
       },
       "startTime": 1664730000,
       "spread": "PIT -3.5",
@@ -335,7 +335,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 162
+        "moneyLine": 159
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -349,7 +349,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -190
+        "moneyLine": -187
       },
       "startTime": 1664730000,
       "spread": "BUF -4.0",
