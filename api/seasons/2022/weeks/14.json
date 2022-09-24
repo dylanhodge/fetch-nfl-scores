@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "CIN -3.0",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "TEN -6.0",
+      "spread": "TEN -5.0",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "BAL -2.5",
       "finished": false
     },
     {

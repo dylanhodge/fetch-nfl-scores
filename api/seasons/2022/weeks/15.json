@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1671339600,
-      "spread": "",
+      "spread": "BAL -2.0",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1671386400,
-      "spread": "",
+      "spread": "PIT -1.0",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1671398700,
-      "spread": "LAC -4.0",
+      "spread": "LAC -6.0",
       "finished": false
     },
     {

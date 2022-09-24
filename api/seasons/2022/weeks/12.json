@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1669572000,
-      "spread": "",
+      "spread": "TB -3.0",
       "finished": false
     },
     {
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1669572000,
-      "spread": "NYJ -1.5",
+      "spread": "NYJ -2.5",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1669584300,
-      "spread": "KC -3.0",
+      "spread": "KC -4.0",
       "finished": false
     },
     {
@@ -562,7 +562,7 @@
         "moneyLine": ""
       },
       "startTime": 1669684500,
-      "spread": "",
+      "spread": "IND -5.5",
       "finished": false
     }
   ],

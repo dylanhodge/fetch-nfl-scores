@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1667149200,
-      "spread": "",
+      "spread": "PHI -6.0",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": ""
       },
       "startTime": 1667175600,
-      "spread": "BUF -4.5",
+      "spread": "BUF -5.5",
       "finished": false
     },
     {
@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1667261700,
-      "spread": "",
+      "spread": "CIN -2.0",
       "finished": false
     }
   ],

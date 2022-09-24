@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "DAL -7.0",
+      "spread": "DAL -6.0",
       "finished": false
     },
     {
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "JAX -1.0",
+      "spread": "JAX -3.0",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "",
+      "spread": "BAL -5.5",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1666556700,
-      "spread": "LAC -7.5",
+      "spread": "LAC -9.0",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1666570800,
-      "spread": "",
+      "spread": "MIA -4.5",
       "finished": false
     },
     {
