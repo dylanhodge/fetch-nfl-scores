@@ -16,7 +16,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
@@ -31,13 +31,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "TB -7.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -52,7 +52,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
@@ -66,13 +66,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "BUF -7.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -86,7 +86,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -100,14 +100,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "MIN -2.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -121,7 +121,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
@@ -135,14 +135,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "CIN -3.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -171,13 +171,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "DEN -1.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -191,7 +191,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -206,13 +206,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "GB -9.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -226,7 +226,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 1
         },
@@ -241,13 +241,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 1
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "IND -9.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -262,7 +262,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
@@ -276,13 +276,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "KC -3.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -296,7 +296,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "ties": 0
         },
@@ -311,13 +311,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "MIA -6.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -332,7 +332,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
@@ -345,14 +345,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "NO -4.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -366,7 +366,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "ties": 0
         },
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "PHI -4.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -451,13 +451,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "SF -2.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -472,7 +472,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
@@ -485,14 +485,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "LAR -6.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -507,7 +507,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "DAL -1.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -541,7 +541,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -555,14 +555,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1673154000,
-      "spread": "TEN -3.5",
+      "spread": "",
       "finished": false
     }
   ],
