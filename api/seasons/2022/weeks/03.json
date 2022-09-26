@@ -502,33 +502,33 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbrev": "DEN",
-        "score": 0,
+        "score": 11,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 101
+        "moneyLine": 102
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbrev": "SF",
-        "score": 0,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -122
+        "moneyLine": -123
       },
       "startTime": 1664151600,
       "spread": "SF -1.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -545,7 +545,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": -114
       },
       "awayTeam": {
         "py/object": "classes.Team",
