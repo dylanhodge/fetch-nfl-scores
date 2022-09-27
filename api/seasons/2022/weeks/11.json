@@ -227,7 +227,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
@@ -380,7 +380,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -491,7 +491,7 @@
         },
         "moneyLine": ""
       },
-      "startTime": 1669078800,
+      "startTime": 1669079700,
       "spread": "",
       "finished": false
     }

@@ -537,33 +537,33 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbrev": "NYG",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
-        "moneyLine": -119
+        "moneyLine": -120
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 23,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -101
+        "moneyLine": 100
       },
       "startTime": 1664237700,
       "spread": "NYG -1.0",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1663892100
