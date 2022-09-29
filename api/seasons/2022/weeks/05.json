@@ -160,7 +160,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -280
+        "moneyLine": -285
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,7 +174,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 240
+        "moneyLine": 233
       },
       "startTime": 1665334800,
       "spread": "MIN -6.5",
@@ -300,7 +300,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -420
+        "moneyLine": -421
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -314,7 +314,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 340
+        "moneyLine": 328
       },
       "startTime": 1665334800,
       "spread": "TB -8.5",
