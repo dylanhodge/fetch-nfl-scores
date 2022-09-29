@@ -20,7 +20,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": 1665706500,
       "spread": "",
@@ -72,7 +72,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "SF -7.0",
       "finished": false
     },
     {
@@ -90,7 +90,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -125
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -104,7 +104,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 105
+        "moneyLine": ""
       },
       "startTime": 1665939600,
       "spread": "CLE -2.0",
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "GB -9.5",
       "finished": false
     },
     {
@@ -177,7 +177,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "IND -6.0",
       "finished": false
     },
     {
@@ -195,7 +195,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 135
+        "moneyLine": ""
       },
       "startTime": 1665939600,
       "spread": "MIA -2.5",
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "CIN -1.0",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "BAL -4.5",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1665939600,
-      "spread": "",
+      "spread": "TB -6.0",
       "finished": false
     },
     {
@@ -352,7 +352,7 @@
         "moneyLine": ""
       },
       "startTime": 1665950700,
-      "spread": "",
+      "spread": "LAR -7.5",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1665950700,
-      "spread": "",
+      "spread": "ARI -3.0",
       "finished": false
     },
     {
@@ -422,7 +422,7 @@
         "moneyLine": ""
       },
       "startTime": 1665951900,
-      "spread": "",
+      "spread": "BUF -1.5",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1665966000,
-      "spread": "",
+      "spread": "PHI -5.0",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": ""
       },
       "startTime": 1666052100,
-      "spread": "",
+      "spread": "LAC -3.5",
       "finished": false
     }
   ],
