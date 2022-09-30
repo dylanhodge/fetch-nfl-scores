@@ -227,7 +227,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1668362400,
-      "spread": "MIA -3.5",
+      "spread": "",
       "finished": false
     },
     {

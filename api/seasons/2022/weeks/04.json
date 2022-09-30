@@ -12,11 +12,11 @@
         "py/object": "classes.Team",
         "name": "Cincinnati Bengals",
         "abbrev": "CIN",
-        "score": 6,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -26,19 +26,19 @@
         "py/object": "classes.Team",
         "name": "Miami Dolphins",
         "abbrev": "MIA",
-        "score": 0,
+        "score": 15,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 166
       },
       "startTime": 1664496900,
       "spread": "CIN -4.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -146
+        "moneyLine": -139
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 123
+        "moneyLine": 117
       },
       "startTime": 1664742300,
       "spread": "LV -2.5",
