@@ -16,7 +16,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -30,14 +30,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672362900,
-      "spread": "TEN -1.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -51,7 +51,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -72,7 +72,7 @@
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "ARI -3.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -101,13 +101,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "DET -3.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "KC -6.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -191,7 +191,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
@@ -206,13 +206,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 1
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "IND -3.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -226,7 +226,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "ties": 0
         },
@@ -241,13 +241,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "PHI -5.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "TB -9.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
@@ -311,13 +311,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "CLE -2.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -332,7 +332,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
@@ -346,13 +346,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "BAL -6.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -367,7 +367,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "ties": 1
         },
         "moneyLine": ""
@@ -381,13 +381,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "JAX -1.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -422,7 +422,7 @@
         "moneyLine": ""
       },
       "startTime": 1672607100,
-      "spread": "SF -2.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -450,14 +450,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672607100,
-      "spread": "SEA -2.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -485,14 +485,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672608300,
-      "spread": "GB -6.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -506,7 +506,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1672622400,
-      "spread": "LAC -2.5",
+      "spread": "",
       "finished": false
     },
     {
@@ -555,14 +555,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672709400,
-      "spread": "BUF -2.0",
+      "spread": "",
       "finished": false
     }
   ],
