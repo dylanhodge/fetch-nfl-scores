@@ -17,7 +17,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""

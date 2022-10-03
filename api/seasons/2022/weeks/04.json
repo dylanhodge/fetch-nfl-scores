@@ -502,12 +502,12 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbrev": "TB",
-        "score": 0,
+        "score": 31,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": -128
@@ -516,19 +516,19 @@
         "py/object": "classes.Team",
         "name": "Kansas City Chiefs",
         "abbrev": "KC",
-        "score": 0,
+        "score": 41,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 106
+        "moneyLine": 107
       },
       "startTime": 1664756400,
       "spread": "TB -2.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -559,7 +559,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 104
+        "moneyLine": 105
       },
       "startTime": 1664842500,
       "spread": "SF -1.5",
