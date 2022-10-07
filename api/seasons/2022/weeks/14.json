@@ -402,10 +402,10 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": -110
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,10 +419,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -110
+        "moneyLine": ""
       },
       "startTime": 1670808000,
-      "spread": "KC -2.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1670894100,
-      "spread": "ARI -3.0",
+      "spread": "",
       "finished": false
     }
   ],

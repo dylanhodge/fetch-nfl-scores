@@ -136,13 +136,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
       },
       "startTime": 1672596000,
-      "spread": "KC -6.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -205,7 +205,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 1
         },

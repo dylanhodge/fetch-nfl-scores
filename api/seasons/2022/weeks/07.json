@@ -125,7 +125,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -110
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -135,14 +135,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 1
         },
-        "moneyLine": -110
+        "moneyLine": ""
       },
       "startTime": 1666544400,
-      "spread": "TEN -1.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": ""
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1666555500,
-      "spread": "DEN -8.0",
+      "spread": "",
       "finished": false
     },
     {
