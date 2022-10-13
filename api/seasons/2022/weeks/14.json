@@ -37,7 +37,7 @@
         "moneyLine": ""
       },
       "startTime": 1670548500,
-      "spread": "",
+      "spread": "LAR -5.0",
       "finished": false
     },
     {
@@ -72,7 +72,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "BUF -10.5",
       "finished": false
     },
     {
@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "CIN -3.0",
       "finished": false
     },
     {
@@ -177,7 +177,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "MIN -3.0",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "TEN -2.0",
       "finished": false
     },
     {
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "PHI -5.0",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "",
+      "spread": "BAL -3.5",
       "finished": false
     },
     {
@@ -352,7 +352,7 @@
         "moneyLine": ""
       },
       "startTime": 1670793900,
-      "spread": "",
+      "spread": "TB -1.0",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1670793900,
-      "spread": "",
+      "spread": "SEA -1.5",
       "finished": false
     },
     {
@@ -405,7 +405,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,10 +419,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": 1670808000,
-      "spread": "",
+      "spread": "KC -3.0",
       "finished": false
     },
     {
