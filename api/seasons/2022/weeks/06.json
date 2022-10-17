@@ -432,11 +432,11 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbrev": "PHI",
-        "score": 0,
+        "score": 26,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "ties": 0
         },
@@ -446,19 +446,19 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 237
       },
       "startTime": 1665966000,
       "spread": "PHI -7.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -224
+        "moneyLine": -225
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 183
+        "moneyLine": 184
       },
       "startTime": 1666052100,
       "spread": "LAC -4.5",
