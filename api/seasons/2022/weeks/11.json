@@ -37,7 +37,7 @@
         "moneyLine": ""
       },
       "startTime": 1668734100,
-      "spread": "",
+      "spread": "GB -6.0",
       "finished": false
     },
     {
@@ -72,7 +72,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "ATL -4.0",
       "finished": false
     },
     {
@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "BUF -10.0",
       "finished": false
     },
     {
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "PHI -3.0",
       "finished": false
     },
     {
@@ -177,7 +177,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "NE -5.5",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "LAR -3.0",
       "finished": false
     },
     {
@@ -247,7 +247,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "NYG -3.5",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "BAL -11.0",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1668967200,
-      "spread": "",
+      "spread": "WSH -2.5",
       "finished": false
     },
     {
@@ -352,7 +352,7 @@
         "moneyLine": ""
       },
       "startTime": 1668978300,
-      "spread": "",
+      "spread": "DEN -1.0",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1668979500,
-      "spread": "",
+      "spread": "MIN -2.5",
       "finished": false
     },
     {
@@ -405,7 +405,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,10 +419,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": 1668979500,
-      "spread": "",
+      "spread": "LAC -1.0",
       "finished": false
     },
     {
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": 1668993600,
-      "spread": "",
+      "spread": "CIN -3.5",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": ""
       },
       "startTime": 1669079700,
-      "spread": "",
+      "spread": "SF -3.0",
       "finished": false
     }
   ],
