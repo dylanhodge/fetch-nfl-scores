@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1670187900,
-      "spread": "SF -4.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -521,7 +521,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": ""
