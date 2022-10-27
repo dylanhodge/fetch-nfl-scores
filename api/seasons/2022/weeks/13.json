@@ -37,7 +37,7 @@
         "moneyLine": ""
       },
       "startTime": 1669943700,
-      "spread": "",
+      "spread": "BUF -6.0",
       "finished": false
     },
     {
@@ -107,7 +107,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "GB -6.0",
       "finished": false
     },
     {
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "DET -1.0",
       "finished": false
     },
     {
@@ -177,7 +177,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "MIN -5.5",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "NYG -2.5",
       "finished": false
     },
     {
@@ -282,7 +282,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "BAL -4.5",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": ""
       },
       "startTime": 1670176800,
-      "spread": "",
+      "spread": "CLE -4.5",
       "finished": false
     },
     {
@@ -352,7 +352,7 @@
         "moneyLine": ""
       },
       "startTime": 1670187900,
-      "spread": "",
+      "spread": "LAR -5.5",
       "finished": false
     },
     {
@@ -387,7 +387,7 @@
         "moneyLine": ""
       },
       "startTime": 1670187900,
-      "spread": "",
+      "spread": "SF -3.5",
       "finished": false
     },
     {
@@ -422,7 +422,7 @@
         "moneyLine": ""
       },
       "startTime": 1670189100,
-      "spread": "",
+      "spread": "KC -2.0",
       "finished": false
     },
     {
@@ -440,7 +440,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,10 +454,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": 1670189100,
-      "spread": "",
+      "spread": "LV -1.0",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": ""
       },
       "startTime": 1670203200,
-      "spread": "",
+      "spread": "DAL -6.0",
       "finished": false
     },
     {
@@ -527,7 +527,7 @@
         "moneyLine": ""
       },
       "startTime": 1670289300,
-      "spread": "",
+      "spread": "TB -6.0",
       "finished": false
     }
   ],
