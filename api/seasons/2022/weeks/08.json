@@ -467,11 +467,11 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbrev": "BUF",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "ties": 0
         },
@@ -481,19 +481,19 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": 381
       },
       "startTime": 1667175600,
       "spread": "BUF -10.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -510,7 +510,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 141
+        "moneyLine": 144
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -168
+        "moneyLine": -171
       },
       "startTime": 1667261700,
       "spread": "CIN -3.0",
