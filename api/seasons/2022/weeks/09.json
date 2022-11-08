@@ -432,12 +432,12 @@
         "py/object": "classes.Team",
         "name": "New Orleans Saints",
         "abbrev": "NO",
-        "score": 0,
+        "score": 13,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": 108
@@ -446,11 +446,11 @@
         "py/object": "classes.Team",
         "name": "Baltimore Ravens",
         "abbrev": "BAL",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 3,
           "ties": 0
         },
@@ -458,7 +458,7 @@
       },
       "startTime": 1667870100,
       "spread": "BAL -1.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1667520900
