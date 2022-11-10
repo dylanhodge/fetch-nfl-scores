@@ -55,7 +55,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": -220
+        "moneyLine": -190
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,10 +69,10 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 190
+        "moneyLine": 170
       },
       "startTime": 1668967200,
-      "spread": "ATL -4.5",
+      "spread": "ATL -3.5",
       "finished": false
     },
     {
@@ -125,7 +125,7 @@
           "losses": 5,
           "ties": 1
         },
-        "moneyLine": 352
+        "moneyLine": 357
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -452
+        "moneyLine": -460
       },
       "startTime": 1668967200,
-      "spread": "PHI -10.0",
+      "spread": "PHI -10.5",
       "finished": false
     },
     {
@@ -160,7 +160,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": -238
+        "moneyLine": -218
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,10 +174,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 199
+        "moneyLine": 182
       },
       "startTime": 1668967200,
-      "spread": "NE -5.5",
+      "spread": "NE -4.5",
       "finished": false
     },
     {
@@ -212,7 +212,7 @@
         "moneyLine": -110
       },
       "startTime": 1668967200,
-      "spread": "LAR -1.0",
+      "spread": "EVEN",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": -135
       },
       "startTime": 1668967200,
-      "spread": "WSH -2.0",
+      "spread": "WSH -2.5",
       "finished": false
     },
     {
@@ -370,7 +370,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -110
+        "moneyLine": 112
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -384,10 +384,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -110
+        "moneyLine": -132
       },
       "startTime": 1668979500,
-      "spread": "EVEN",
+      "spread": "DAL -2.0",
       "finished": false
     },
     {
