@@ -205,7 +205,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
+          "wins": 4,
           "losses": 5,
           "ties": 1
         },
@@ -311,7 +311,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 6,
+          "losses": 7,
           "ties": 0
         },
         "moneyLine": -139
