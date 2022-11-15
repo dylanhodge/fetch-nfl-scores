@@ -467,12 +467,12 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbrev": "PHI",
-        "score": 0,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": -533
@@ -481,11 +481,11 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbrev": "WSH",
-        "score": 0,
+        "score": 32,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 5,
           "ties": 0
         },
@@ -493,7 +493,7 @@
       },
       "startTime": 1668474900,
       "spread": "PHI -11.0",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1668129300
