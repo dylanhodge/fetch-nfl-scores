@@ -191,7 +191,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 3,
           "ties": 0
         },
@@ -212,7 +212,7 @@
         "moneyLine": ""
       },
       "startTime": 1670781600,
-      "spread": "TEN -2.5",
+      "spread": "",
       "finished": false
     },
     {
