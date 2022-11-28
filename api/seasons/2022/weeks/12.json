@@ -502,11 +502,11 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbrev": "PHI",
-        "score": 34,
+        "score": 40,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
+          "wins": 10,
           "losses": 1,
           "ties": 0
         },
@@ -516,19 +516,19 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 20,
+        "score": 33,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": 230
       },
       "startTime": 1669598400,
       "spread": "PHI -6.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
