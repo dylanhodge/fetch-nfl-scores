@@ -37,7 +37,7 @@
         "moneyLine": -205
       },
       "startTime": 1670548500,
-      "spread": "LV -4.0",
+      "spread": "LV -5.0",
       "finished": false
     },
     {
@@ -55,7 +55,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -445
+        "moneyLine": -479
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,7 +69,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 365
+        "moneyLine": 368
       },
       "startTime": 1670781600,
       "spread": "BUF -9.5",
@@ -125,7 +125,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -1000
+        "moneyLine": -1100
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 9,
           "ties": 1
         },
-        "moneyLine": 650
+        "moneyLine": 700
       },
       "startTime": 1670781600,
-      "spread": "DAL -14.0",
+      "spread": "DAL -14.5",
       "finished": false
     },
     {
@@ -287,37 +287,37 @@
     },
     {
       "py/object": "classes.Game",
-      "id": "401437896",
+      "id": "401437899",
       "homeTeam": {
         "py/object": "classes.Team",
-        "name": "Los Angeles Chargers",
-        "abbrev": "LAC",
+        "name": "Denver Broncos",
+        "abbrev": "DEN",
         "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
-          "losses": 5,
+          "wins": 3,
+          "losses": 8,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": 240
       },
       "awayTeam": {
         "py/object": "classes.Team",
-        "name": "Miami Dolphins",
-        "abbrev": "MIA",
+        "name": "Kansas City Chiefs",
+        "abbrev": "KC",
         "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
-          "losses": 3,
+          "wins": 9,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -105
+        "moneyLine": -280
       },
       "startTime": 1670792700,
-      "spread": "LAC -2.5",
+      "spread": "KC -7.0",
       "finished": false
     },
     {
@@ -370,7 +370,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": -280
+        "moneyLine": -300
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -384,7 +384,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 240
+        "moneyLine": 242
       },
       "startTime": 1670793900,
       "spread": "SEA -6.5",
@@ -392,37 +392,37 @@
     },
     {
       "py/object": "classes.Game",
-      "id": "401437899",
+      "id": "401437896",
       "homeTeam": {
         "py/object": "classes.Team",
-        "name": "Denver Broncos",
-        "abbrev": "DEN",
+        "name": "Los Angeles Chargers",
+        "abbrev": "LAC",
         "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
-          "losses": 8,
+          "wins": 6,
+          "losses": 5,
           "ties": 0
         },
-        "moneyLine": 230
+        "moneyLine": 100
       },
       "awayTeam": {
         "py/object": "classes.Team",
-        "name": "Kansas City Chiefs",
-        "abbrev": "KC",
+        "name": "Miami Dolphins",
+        "abbrev": "MIA",
         "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
-          "losses": 2,
+          "wins": 8,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": -270
+        "moneyLine": -120
       },
       "startTime": 1670808000,
-      "spread": "KC -7.0",
+      "spread": "MIA -1.0",
       "finished": false
     },
     {
