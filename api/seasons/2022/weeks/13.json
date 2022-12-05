@@ -467,33 +467,33 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 54,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -541
+        "moneyLine": -557
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Indianapolis Colts",
         "abbrev": "IND",
-        "score": 0,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 7,
+          "losses": 8,
           "ties": 1
         },
-        "moneyLine": 408
+        "moneyLine": 414
       },
       "startTime": 1670203200,
       "spread": "DAL -11.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -510,7 +510,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -189
+        "moneyLine": -174
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 160
+        "moneyLine": 146
       },
       "startTime": 1670289300,
-      "spread": "TB -3.5",
+      "spread": "TB -3.0",
       "finished": false
     }
   ],
