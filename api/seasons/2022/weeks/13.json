@@ -502,33 +502,33 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbrev": "TB",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -179
+        "moneyLine": -184
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "New Orleans Saints",
         "abbrev": "NO",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
-        "moneyLine": 151
+        "moneyLine": 155
       },
       "startTime": 1670289300,
       "spread": "TB -3.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1669943700
