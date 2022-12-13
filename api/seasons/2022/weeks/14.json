@@ -432,33 +432,33 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbrev": "ARI",
-        "score": 0,
+        "score": 13,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
-        "moneyLine": 115
+        "moneyLine": 112
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "New England Patriots",
         "abbrev": "NE",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -136
+        "moneyLine": -133
       },
       "startTime": 1670894100,
       "spread": "NE -2.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1670548500
