@@ -537,11 +537,11 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 0,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 8,
           "ties": 0
         },
@@ -551,19 +551,19 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbrev": "LAR",
-        "score": 0,
+        "score": 12,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 9,
+          "losses": 10,
           "ties": 0
         },
-        "moneyLine": 283
+        "moneyLine": 287
       },
       "startTime": 1671498900,
       "spread": "GB -7.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": 1671153300
