@@ -545,7 +545,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": -325
+        "moneyLine": -364
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,10 +559,10 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 258
+        "moneyLine": 283
       },
       "startTime": 1671498900,
-      "spread": "GB -7.0",
+      "spread": "GB -7.5",
       "finished": false
     }
   ],
