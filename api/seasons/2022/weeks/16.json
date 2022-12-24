@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": -174
@@ -310,7 +310,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 12,
           "ties": 1
         },
@@ -318,7 +318,7 @@
       },
       "startTime": 1671908400,
       "spread": "TEN -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -327,7 +327,7 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbrev": "SF",
-        "score": 0,
+        "score": 7,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
@@ -341,7 +341,7 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbrev": "WSH",
-        "score": 0,
+        "score": 7,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
@@ -362,7 +362,7 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbrev": "DAL",
-        "score": 0,
+        "score": 14,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
@@ -376,7 +376,7 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbrev": "PHI",
-        "score": 10,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
@@ -440,7 +440,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -191
+        "moneyLine": -189
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,7 +454,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 160
+        "moneyLine": 159
       },
       "startTime": 1671991200,
       "spread": "MIA -3.5",
