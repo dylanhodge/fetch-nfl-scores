@@ -31,7 +31,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 13,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": -805
@@ -262,7 +262,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 6,
+          "losses": 7,
           "ties": 1
         },
         "moneyLine": 142
@@ -311,7 +311,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 6,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
         "moneyLine": -139
