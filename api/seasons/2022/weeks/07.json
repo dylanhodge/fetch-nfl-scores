@@ -17,7 +17,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
         "moneyLine": -144
@@ -205,7 +205,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 8,
           "ties": 0
         },
@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
         "moneyLine": 110

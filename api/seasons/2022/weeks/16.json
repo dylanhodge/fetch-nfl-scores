@@ -467,11 +467,11 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbrev": "LAR",
-        "score": 41,
+        "score": 51,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 10,
           "ties": 0
         },
@@ -486,14 +486,14 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
         "moneyLine": -180
       },
       "startTime": 1672003800,
       "spread": "DEN -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -502,33 +502,33 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbrev": "ARI",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
-        "moneyLine": 286
+        "moneyLine": 285
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbrev": "TB",
-        "score": 0,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": -366
+        "moneyLine": -364
       },
       "startTime": 1672017600,
       "spread": "TB -7.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -545,7 +545,7 @@
           "losses": 9,
           "ties": 1
         },
-        "moneyLine": 176
+        "moneyLine": 171
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -213
+        "moneyLine": -207
       },
       "startTime": 1672103700,
       "spread": "LAC -4.0",
