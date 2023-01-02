@@ -136,7 +136,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
         "moneyLine": 283
@@ -332,7 +332,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
         "moneyLine": -450
@@ -471,7 +471,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
+          "wins": 10,
           "losses": 6,
           "ties": 0
         },
