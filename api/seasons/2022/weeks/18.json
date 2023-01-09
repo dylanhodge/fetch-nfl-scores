@@ -537,33 +537,33 @@
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbrev": "GB",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
-        "moneyLine": -265
+        "moneyLine": -244
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Detroit Lions",
         "abbrev": "DET",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 215
+        "moneyLine": 200
       },
       "startTime": 1673227200,
-      "spread": "GB -5.5",
-      "finished": false
+      "spread": "GB -4.5",
+      "finished": true
     }
   ],
   "startTime": 1673127000
