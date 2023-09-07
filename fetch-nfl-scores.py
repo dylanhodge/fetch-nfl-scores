@@ -11,6 +11,9 @@ from classes import Game, Week, Team, Record
 from multiprocessing.pool import ThreadPool
 
 
+WMH_API_KEY = "40d1a5b0-996f-4d01-aeff-48976df247fe"
+
+
 def get_api_response(url: str):
     get_api_response.counter += 1
     api_response = requests.get(url)
@@ -163,7 +166,7 @@ def get_week_info(season: int, season_type: int, week_num: int):
     with open(f'api/seasons/{season}/weeks/{str(week_num).zfill(2)}.json', 'w') as f:
         json.dump(json_document, f, indent=2)
 
-    headers = {"Content-Type": "application/json"}
+    headers = {"Content-Type": "application/json", "Authorization": WMH_API_KEY}
     response = requests.put(f"https://api.winnersmadehere.com/season/{season}/week/{week_num}", data=json.dumps(json_document), headers=headers)
     if response.status_code != 200:
         print(f"Unable to post scores for season {season} and week #{week_num} with status {response.status_code}")
@@ -190,12 +193,13 @@ if __name__ == '__main__':
     get_api_response.counter = 0
     start_time = time.perf_counter()
     with ThreadPool(8) as t:
-        t.map(lambda week_num: get_week_info(2022, 2, week_num), [x for x in range(1, 19)])
+        t.map(lambda week_num: get_week_info(2023, 2, week_num), [x for x in range(1, 19)])
     end_time = time.perf_counter()
     print(f"Gathered season data in {round(end_time - start_time, 5)} seconds")
     print(f"{get_api_response.counter} API calls were made")
     start_time = time.perf_counter()
-    response = requests.put(f"https://api.winnersmadehere.com/updateScores")
+    headers = {"Authorization": WMH_API_KEY}
+    response = requests.put(f"https://api.winnersmadehere.com/season/update-scores", headers=headers)
     if response.status_code != 200:
         print(f"Unable to update scores with status {response.status_code}")
     end_time = time.perf_counter()
