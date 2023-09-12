@@ -537,33 +537,33 @@
         "py/object": "classes.Team",
         "name": "New York Jets",
         "abbreviation": "NYJ",
-        "score": 0,
+        "score": 22,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 117
+        "moneyLine": 116
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbreviation": "BUF",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
-        "moneyLine": -138
+        "moneyLine": -137
       },
       "startTime": "2023-09-12T00:15:00Z",
       "spread": "BUF -2.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": "2023-09-08T00:20:00Z"
