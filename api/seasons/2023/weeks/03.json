@@ -195,7 +195,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": 100
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,10 +209,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -120
       },
       "startTime": "2023-09-24T17:00:00Z",
-      "spread": "",
+      "spread": "LAC -1.5",
       "finished": false
     },
     {
