@@ -51,10 +51,13 @@ def find_caesars(odds_items: list):
         if item["provider"]["name"] == "consensus":
             return item
     for item in odds_items:
-        if item["provider"]["name"] == "Caesars Sportsbook":
+        if item["provider"]["name"] == "DraftKings":
             return item
     for item in odds_items:
-        if item["provider"]["name"] == "DraftKings":
+        if item["provider"]["name"] == "PointsBet":
+            return item
+    for item in odds_items:
+        if item["provider"]["name"] == "Caesars Sportsbook":
             return item
     if len(odds_items) > 0:
         return odds_items[0]
