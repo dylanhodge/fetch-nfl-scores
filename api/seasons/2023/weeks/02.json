@@ -327,12 +327,12 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbreviation": "LAR",
-        "score": 0,
+        "score": 23,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 270
@@ -341,11 +341,11 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 7,
+        "score": 30,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "ties": 0
         },
@@ -353,7 +353,7 @@
       },
       "startTime": "2023-09-17T20:05:00Z",
       "spread": "SF -7.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -362,12 +362,12 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbreviation": "ARI",
-        "score": 0,
+        "score": 28,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 190
@@ -376,11 +376,11 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbreviation": "NYG",
-        "score": 0,
+        "score": 31,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
@@ -388,42 +388,7 @@
       },
       "startTime": "2023-09-17T20:05:00Z",
       "spread": "NYG -5.0",
-      "finished": false
-    },
-    {
-      "py/object": "classes.Game",
-      "gameId": "401547415",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Dallas Cowboys",
-        "abbreviation": "DAL",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 0,
-          "ties": 0
-        },
-        "moneyLine": -380
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "New York Jets",
-        "abbreviation": "NYJ",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 0,
-          "ties": 0
-        },
-        "moneyLine": 300
-      },
-      "startTime": "2023-09-17T20:25:00Z",
-      "spread": "DAL -8.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,7 +397,7 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbreviation": "DEN",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
@@ -446,7 +411,7 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbreviation": "WSH",
-        "score": 0,
+        "score": 35,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
@@ -459,6 +424,41 @@
       "startTime": "2023-09-17T20:25:00Z",
       "spread": "DEN -4.0",
       "finished": false
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547415",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Dallas Cowboys",
+        "abbreviation": "DAL",
+        "score": 30,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0
+        },
+        "moneyLine": -380
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "New York Jets",
+        "abbreviation": "NYJ",
+        "score": 10,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0
+        },
+        "moneyLine": 300
+      },
+      "startTime": "2023-09-17T20:25:00Z",
+      "spread": "DAL -8.5",
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 114
+        "moneyLine": 105
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,10 +489,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -135
+        "moneyLine": -125
       },
       "startTime": "2023-09-18T00:20:00Z",
-      "spread": "MIA -2.5",
+      "spread": "MIA -2.0",
       "finished": false
     },
     {
