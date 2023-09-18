@@ -104,7 +104,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 180
+        "moneyLine": 170
       },
       "startTime": "2023-09-24T17:00:00Z",
       "spread": "DET -4.5",
@@ -454,7 +454,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -800
+        "moneyLine": -750
       },
       "startTime": "2023-09-24T20:25:00Z",
       "spread": "DAL -12.5",
