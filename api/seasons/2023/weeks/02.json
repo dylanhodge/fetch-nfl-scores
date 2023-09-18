@@ -467,12 +467,12 @@
         "py/object": "classes.Team",
         "name": "New England Patriots",
         "abbreviation": "NE",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 110
@@ -481,11 +481,11 @@
         "py/object": "classes.Team",
         "name": "Miami Dolphins",
         "abbreviation": "MIA",
-        "score": 0,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "ties": 0
         },
@@ -493,7 +493,7 @@
       },
       "startTime": "2023-09-18T00:20:00Z",
       "spread": "MIA -2.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -510,7 +510,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 130
+        "moneyLine": 136
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": -162
       },
       "startTime": "2023-09-18T23:15:00Z",
       "spread": "NO -3.0",
