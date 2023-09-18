@@ -392,41 +392,6 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547416",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Denver Broncos",
-        "abbreviation": "DEN",
-        "score": 27,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 0,
-          "losses": 1,
-          "ties": 0
-        },
-        "moneyLine": -198
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Washington Commanders",
-        "abbreviation": "WSH",
-        "score": 35,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 0,
-          "ties": 0
-        },
-        "moneyLine": 164
-      },
-      "startTime": "2023-09-17T20:25:00Z",
-      "spread": "DEN -4.0",
-      "finished": false
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547415",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -462,6 +427,41 @@
     },
     {
       "py/object": "classes.Game",
+      "gameId": "401547416",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Denver Broncos",
+        "abbreviation": "DEN",
+        "score": 33,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 0,
+          "losses": 2,
+          "ties": 0
+        },
+        "moneyLine": -198
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Washington Commanders",
+        "abbreviation": "WSH",
+        "score": 35,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0
+        },
+        "moneyLine": 164
+      },
+      "startTime": "2023-09-17T20:25:00Z",
+      "spread": "DEN -4.0",
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
       "gameId": "401547423",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -475,7 +475,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 105
+        "moneyLine": 110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -125
+        "moneyLine": -130
       },
       "startTime": "2023-09-18T00:20:00Z",
       "spread": "MIA -2.0",
