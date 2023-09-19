@@ -502,12 +502,12 @@
         "py/object": "classes.Team",
         "name": "Carolina Panthers",
         "abbreviation": "CAR",
-        "score": 3,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 150
@@ -516,11 +516,11 @@
         "py/object": "classes.Team",
         "name": "New Orleans Saints",
         "abbreviation": "NO",
-        "score": 3,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "ties": 0
         },
@@ -528,7 +528,7 @@
       },
       "startTime": "2023-09-18T23:15:00Z",
       "spread": "NO -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -537,33 +537,33 @@
         "py/object": "classes.Team",
         "name": "Pittsburgh Steelers",
         "abbreviation": "PIT",
-        "score": 0,
+        "score": 26,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 120
+        "moneyLine": 105
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Cleveland Browns",
         "abbreviation": "CLE",
-        "score": 0,
+        "score": 22,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
-        "moneyLine": -142
+        "moneyLine": -125
       },
       "startTime": "2023-09-19T00:15:00Z",
-      "spread": "CLE -2.5",
-      "finished": false
+      "spread": "CLE -1.5",
+      "finished": true
     }
   ],
   "startTime": "2023-09-15T00:15:00Z"
