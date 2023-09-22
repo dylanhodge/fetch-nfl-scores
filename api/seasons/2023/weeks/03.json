@@ -12,11 +12,11 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 0,
+        "score": 30,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "ties": 0
         },
@@ -26,19 +26,19 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbreviation": "NYG",
-        "score": 0,
+        "score": 12,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 400
       },
       "startTime": "2023-09-22T00:15:00Z",
       "spread": "SF -10.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -335,7 +335,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -345
+        "moneyLine": -375
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -349,7 +349,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 275
+        "moneyLine": 295
       },
       "startTime": "2023-09-24T17:00:00Z",
       "spread": "BAL -8.0",
