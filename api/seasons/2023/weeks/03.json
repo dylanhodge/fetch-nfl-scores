@@ -55,7 +55,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -170
+        "moneyLine": -162
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,7 +69,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 142
+        "moneyLine": 136
       },
       "startTime": "2023-09-24T17:00:00Z",
       "spread": "CLE -3.5",
@@ -125,7 +125,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": -118
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,7 +139,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -105
+        "moneyLine": -102
       },
       "startTime": "2023-09-24T17:00:00Z",
       "spread": "GB -1.0",
@@ -160,7 +160,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -290
+        "moneyLine": -250
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,10 +174,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 235
+        "moneyLine": 205
       },
       "startTime": "2023-09-24T17:00:00Z",
-      "spread": "MIA -6.5",
+      "spread": "MIA -6.0",
       "finished": false
     },
     {
@@ -195,7 +195,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -112
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -108
+        "moneyLine": -110
       },
       "startTime": "2023-09-24T17:00:00Z",
       "spread": "MIN -1.0",
@@ -265,7 +265,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 220
+        "moneyLine": 200
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,10 +279,10 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -270
+        "moneyLine": -245
       },
       "startTime": "2023-09-24T17:00:00Z",
-      "spread": "BUF -6.5",
+      "spread": "BUF -6.0",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": 295
       },
       "startTime": "2023-09-24T17:00:00Z",
-      "spread": "JAX -8.0",
+      "spread": "JAX -7.5",
       "finished": false
     },
     {
@@ -370,7 +370,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -238
+        "moneyLine": -225
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -384,10 +384,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 195
+        "moneyLine": 185
       },
       "startTime": "2023-09-24T20:05:00Z",
-      "spread": "SEA -5.5",
+      "spread": "SEA -5.0",
       "finished": false
     },
     {
@@ -440,7 +440,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 490
+        "moneyLine": 525
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,10 +454,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -700
+        "moneyLine": -750
       },
       "startTime": "2023-09-24T20:25:00Z",
-      "spread": "DAL -12.5",
+      "spread": "DAL -13.0",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": 185
+        "moneyLine": 180
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -225
+        "moneyLine": -218
       },
       "startTime": "2023-09-25T23:15:00Z",
       "spread": "PHI -5.0",
@@ -545,7 +545,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -135
+        "moneyLine": -142
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,7 +559,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 114
+        "moneyLine": 120
       },
       "startTime": "2023-09-26T00:15:00Z",
       "spread": "CIN -2.5",
