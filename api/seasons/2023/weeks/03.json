@@ -362,11 +362,11 @@
         "py/object": "classes.Team",
         "name": "Seattle Seahawks",
         "abbreviation": "SEA",
-        "score": 29,
+        "score": 37,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -376,19 +376,19 @@
         "py/object": "classes.Team",
         "name": "Carolina Panthers",
         "abbreviation": "CAR",
-        "score": 20,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 170
       },
       "startTime": "2023-09-24T20:05:00Z",
       "spread": "SEA -4.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -401,7 +401,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "ties": 0
         },
@@ -411,19 +411,19 @@
         "py/object": "classes.Team",
         "name": "Chicago Bears",
         "abbreviation": "CHI",
-        "score": 3,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 550
       },
       "startTime": "2023-09-24T20:25:00Z",
       "spread": "KC -13.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -436,7 +436,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
@@ -451,14 +451,14 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": -650
       },
       "startTime": "2023-09-24T20:25:00Z",
       "spread": "DAL -11.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
