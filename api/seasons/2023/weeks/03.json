@@ -502,12 +502,12 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbreviation": "TB",
-        "score": 0,
+        "score": 11,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": 210
@@ -516,11 +516,11 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 3,
+        "score": 25,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "ties": 0
         },
@@ -528,7 +528,7 @@
       },
       "startTime": "2023-09-25T23:15:00Z",
       "spread": "PHI -6.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -537,11 +537,11 @@
         "py/object": "classes.Team",
         "name": "Cincinnati Bengals",
         "abbreviation": "CIN",
-        "score": 0,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "ties": 0
         },
@@ -551,19 +551,19 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbreviation": "LAR",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 136
       },
       "startTime": "2023-09-26T00:15:00Z",
       "spread": "CIN -3.0",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": "2023-09-22T00:15:00Z"
