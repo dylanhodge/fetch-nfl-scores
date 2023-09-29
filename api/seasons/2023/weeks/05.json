@@ -121,11 +121,11 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -375
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 295
+        "moneyLine": ""
       },
       "startTime": "2023-10-08T17:00:00Z",
-      "spread": "DET -7.5",
+      "spread": "DET -5.5",
       "finished": false
     },
     {
@@ -475,7 +475,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -105
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -486,13 +486,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
-        "moneyLine": -115
+        "moneyLine": ""
       },
       "startTime": "2023-10-10T00:15:00Z",
-      "spread": "GB -1.0",
+      "spread": "LV -1.0",
       "finished": false
     }
   ],
