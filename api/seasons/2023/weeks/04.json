@@ -397,11 +397,11 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Chargers",
         "abbreviation": "LAC",
-        "score": 10,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -411,19 +411,19 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbreviation": "LV",
-        "score": 7,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 250
       },
       "startTime": "2023-10-01T20:05:00Z",
       "spread": "LAC -7.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,11 +432,11 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 10,
+        "score": 38,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
@@ -451,14 +451,14 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 230
       },
       "startTime": "2023-10-01T20:25:00Z",
       "spread": "DAL -6.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -467,11 +467,11 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 14,
+        "score": 35,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "ties": 0
         },
@@ -481,19 +481,19 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbreviation": "ARI",
-        "score": 0,
+        "score": 16,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 700
       },
       "startTime": "2023-10-01T20:25:00Z",
       "spread": "SF -15.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -510,7 +510,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 320
+        "moneyLine": 340
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -410
+        "moneyLine": -440
       },
       "startTime": "2023-10-02T00:20:00Z",
       "spread": "KC -9.0",
