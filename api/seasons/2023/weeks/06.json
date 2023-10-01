@@ -87,7 +87,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": ""
@@ -142,7 +142,7 @@
         "moneyLine": ""
       },
       "startTime": "2023-10-15T17:00:00Z",
-      "spread": "MIN -3.0",
+      "spread": "",
       "finished": false
     },
     {
@@ -296,7 +296,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "ties": 0
         },
@@ -457,7 +457,7 @@
         "moneyLine": ""
       },
       "startTime": "2023-10-15T20:25:00Z",
-      "spread": "PHI -7.0",
+      "spread": "",
       "finished": false
     },
     {
