@@ -502,12 +502,12 @@
         "py/object": "classes.Team",
         "name": "New York Jets",
         "abbreviation": "NYJ",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
         "moneyLine": 370
@@ -516,19 +516,19 @@
         "py/object": "classes.Team",
         "name": "Kansas City Chiefs",
         "abbreviation": "KC",
-        "score": 0,
+        "score": 23,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "ties": 0
         },
         "moneyLine": -485
       },
       "startTime": "2023-10-02T00:20:00Z",
-      "spread": "KC -9.0",
-      "finished": false
+      "spread": "KC -9.5",
+      "finished": true
     },
     {
       "py/object": "classes.Game",
