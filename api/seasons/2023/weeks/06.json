@@ -252,41 +252,6 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547478",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Tampa Bay Buccaneers",
-        "abbreviation": "TB",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 3,
-          "losses": 1,
-          "ties": 0
-        },
-        "moneyLine": ""
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Detroit Lions",
-        "abbreviation": "DET",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 3,
-          "losses": 1,
-          "ties": 0
-        },
-        "moneyLine": ""
-      },
-      "startTime": "2023-10-15T17:00:00Z",
-      "spread": "DET -4.0",
-      "finished": false
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547472",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -458,6 +423,41 @@
       },
       "startTime": "2023-10-15T20:25:00Z",
       "spread": "",
+      "finished": false
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547478",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Tampa Bay Buccaneers",
+        "abbreviation": "TB",
+        "score": 0,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0
+        },
+        "moneyLine": ""
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Detroit Lions",
+        "abbreviation": "DET",
+        "score": 0,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0
+        },
+        "moneyLine": ""
+      },
+      "startTime": "2023-10-15T20:25:00Z",
+      "spread": "DET -4.0",
       "finished": false
     },
     {
