@@ -20,7 +20,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -290
+        "moneyLine": -305
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 235
+        "moneyLine": 245
       },
       "startTime": "2023-10-06T00:15:00Z",
       "spread": "WSH -7.0",
@@ -195,7 +195,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -440
+        "moneyLine": -550
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -206,13 +206,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": 340
+        "moneyLine": 410
       },
       "startTime": "2023-10-08T17:00:00Z",
-      "spread": "MIA -9.5",
+      "spread": "MIA -10.5",
       "finished": false
     },
     {
