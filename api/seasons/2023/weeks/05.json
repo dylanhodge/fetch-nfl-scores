@@ -20,7 +20,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -258
+        "moneyLine": -265
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 210
+        "moneyLine": 215
       },
       "startTime": "2023-10-06T00:15:00Z",
       "spread": "WSH -6.0",
