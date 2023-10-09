@@ -432,33 +432,33 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 0,
+        "score": 42,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -175
+        "moneyLine": -180
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 0,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 150
       },
       "startTime": "2023-10-09T00:20:00Z",
       "spread": "SF -3.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -130
+        "moneyLine": -125
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 110
+        "moneyLine": 105
       },
       "startTime": "2023-10-10T00:15:00Z",
       "spread": "LV -2.0",
