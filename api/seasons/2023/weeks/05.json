@@ -467,33 +467,33 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbreviation": "LV",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -118
+        "moneyLine": -122
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Green Bay Packers",
         "abbreviation": "GB",
-        "score": 0,
+        "score": 13,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": -102
+        "moneyLine": 102
       },
       "startTime": "2023-10-10T00:15:00Z",
-      "spread": "LV -1.0",
-      "finished": false
+      "spread": "LV -1.5",
+      "finished": true
     }
   ],
   "startTime": "2023-10-06T00:15:00Z"
