@@ -90,7 +90,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 120
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -104,7 +104,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -142
+        "moneyLine": ""
       },
       "startTime": "2023-10-22T17:00:00Z",
       "spread": "CLE -2.5",
@@ -332,10 +332,10 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
-        "moneyLine": 100
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -349,10 +349,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -120
+        "moneyLine": ""
       },
       "startTime": "2023-10-22T20:25:00Z",
-      "spread": "GB -1.5",
+      "spread": "DEN -3.0",
       "finished": false
     },
     {
@@ -366,11 +366,11 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -245
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -384,7 +384,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 200
+        "moneyLine": ""
       },
       "startTime": "2023-10-22T20:25:00Z",
       "spread": "KC -6.0",

@@ -206,7 +206,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": ""
@@ -415,7 +415,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "ties": 0
         },
