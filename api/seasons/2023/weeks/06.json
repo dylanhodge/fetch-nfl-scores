@@ -55,7 +55,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 170
+        "moneyLine": 180
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,10 +69,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -205
+        "moneyLine": -218
       },
       "startTime": "2023-10-15T13:30:00Z",
-      "spread": "BAL -4.0",
+      "spread": "BAL -4.5",
       "finished": false
     },
     {
@@ -160,7 +160,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -148
+        "moneyLine": -155
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,7 +174,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 124
+        "moneyLine": 130
       },
       "startTime": "2023-10-15T17:00:00Z",
       "spread": "CIN -3.0",
@@ -195,7 +195,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 400
+        "moneyLine": 390
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -535
+        "moneyLine": -520
       },
       "startTime": "2023-10-15T17:00:00Z",
       "spread": "SF -10.0",
@@ -230,7 +230,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -1000
+        "moneyLine": -1100
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -244,10 +244,10 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 650
+        "moneyLine": 700
       },
       "startTime": "2023-10-15T17:00:00Z",
-      "spread": "MIA -13.5",
+      "spread": "MIA -14.0",
       "finished": false
     },
     {
@@ -265,7 +265,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -192
+        "moneyLine": -218
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,7 +279,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 160
+        "moneyLine": 180
       },
       "startTime": "2023-10-15T17:00:00Z",
       "spread": "JAX -4.0",
@@ -300,7 +300,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 102
+        "moneyLine": 100
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -314,7 +314,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -122
+        "moneyLine": -120
       },
       "startTime": "2023-10-15T17:00:00Z",
       "spread": "NO -1.5",
@@ -405,7 +405,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 260
+        "moneyLine": 235
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,10 +419,10 @@
           "losses": 0,
           "ties": 0
         },
-        "moneyLine": -325
+        "moneyLine": -290
       },
       "startTime": "2023-10-15T20:25:00Z",
-      "spread": "PHI -7.0",
+      "spread": "PHI -6.5",
       "finished": false
     },
     {
@@ -440,7 +440,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 142
+        "moneyLine": 140
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,7 +454,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -170
+        "moneyLine": -166
       },
       "startTime": "2023-10-15T20:25:00Z",
       "spread": "DET -3.0",
@@ -475,7 +475,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -1200
+        "moneyLine": -1350
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,10 +489,10 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 750
+        "moneyLine": 800
       },
       "startTime": "2023-10-16T00:20:00Z",
-      "spread": "BUF -14.5",
+      "spread": "BUF -15.0",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 110
+        "moneyLine": 114
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -130
+        "moneyLine": -135
       },
       "startTime": "2023-10-17T00:15:00Z",
-      "spread": "DAL -2.0",
+      "spread": "DAL -2.5",
       "finished": false
     }
   ],
