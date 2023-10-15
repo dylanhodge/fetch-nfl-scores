@@ -327,11 +327,11 @@
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbreviation": "LV",
-        "score": 10,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "ties": 0
         },
@@ -341,54 +341,19 @@
         "py/object": "classes.Team",
         "name": "New England Patriots",
         "abbreviation": "NE",
-        "score": 3,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": 124
       },
       "startTime": "2023-10-15T20:05:00Z",
       "spread": "LV -3.0",
-      "finished": false
-    },
-    {
-      "py/object": "classes.Game",
-      "gameId": "401547479",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Los Angeles Rams",
-        "abbreviation": "LAR",
-        "score": 3,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 2,
-          "losses": 3,
-          "ties": 0
-        },
-        "moneyLine": -340
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Arizona Cardinals",
-        "abbreviation": "ARI",
-        "score": 6,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 4,
-          "ties": 0
-        },
-        "moneyLine": 270
-      },
-      "startTime": "2023-10-15T20:25:00Z",
-      "spread": "LAR -7.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -397,11 +362,11 @@
         "py/object": "classes.Team",
         "name": "New York Jets",
         "abbreviation": "NYJ",
-        "score": 3,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "ties": 0
         },
@@ -411,19 +376,54 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 7,
+        "score": 14,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "ties": 0
         },
         "moneyLine": -305
       },
       "startTime": "2023-10-15T20:25:00Z",
       "spread": "PHI -6.5",
-      "finished": false
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547479",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Los Angeles Rams",
+        "abbreviation": "LAR",
+        "score": 26,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0
+        },
+        "moneyLine": -340
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Arizona Cardinals",
+        "abbreviation": "ARI",
+        "score": 9,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 1,
+          "losses": 5,
+          "ties": 0
+        },
+        "moneyLine": 270
+      },
+      "startTime": "2023-10-15T20:25:00Z",
+      "spread": "LAR -7.0",
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,12 +432,12 @@
         "py/object": "classes.Team",
         "name": "Tampa Bay Buccaneers",
         "abbreviation": "TB",
-        "score": 0,
+        "score": 6,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 136
@@ -446,11 +446,11 @@
         "py/object": "classes.Team",
         "name": "Detroit Lions",
         "abbreviation": "DET",
-        "score": 3,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "ties": 0
         },
@@ -458,7 +458,7 @@
       },
       "startTime": "2023-10-15T20:25:00Z",
       "spread": "DET -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -1450
+        "moneyLine": -1350
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,10 +489,10 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 850
+        "moneyLine": 800
       },
       "startTime": "2023-10-16T00:20:00Z",
-      "spread": "BUF -16.0",
+      "spread": "BUF -15.5",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 102
+        "moneyLine": 105
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -122
+        "moneyLine": -125
       },
       "startTime": "2023-10-17T00:15:00Z",
       "spread": "DAL -1.5",
