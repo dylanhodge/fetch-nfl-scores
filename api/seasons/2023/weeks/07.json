@@ -20,7 +20,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,10 +34,10 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": ""
+        "moneyLine": -110
       },
       "startTime": "2023-10-20T00:15:00Z",
-      "spread": "NO -1.0",
+      "spread": "JAX -1.0",
       "finished": false
     },
     {
@@ -125,7 +125,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 330
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -135,14 +135,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -425
+        "moneyLine": ""
       },
       "startTime": "2023-10-22T17:00:00Z",
-      "spread": "BUF -9.0",
+      "spread": "BUF -4.0",
       "finished": false
     },
     {
@@ -157,10 +157,10 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
-        "moneyLine": 110
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,10 +174,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -130
+        "moneyLine": ""
       },
       "startTime": "2023-10-22T17:00:00Z",
-      "spread": "WSH -2.5",
+      "spread": "NYG -3.0",
       "finished": false
     },
     {
@@ -265,7 +265,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": -166
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,7 +279,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 130
+        "moneyLine": 140
       },
       "startTime": "2023-10-22T20:05:00Z",
       "spread": "LAR -3.0",
@@ -419,7 +419,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 114
+        "moneyLine": 110
       },
       "startTime": "2023-10-23T00:20:00Z",
       "spread": "PHI -2.5",
