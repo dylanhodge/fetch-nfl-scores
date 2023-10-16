@@ -357,41 +357,6 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547480",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "New York Jets",
-        "abbreviation": "NYJ",
-        "score": 20,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 3,
-          "losses": 3,
-          "ties": 0
-        },
-        "moneyLine": 245
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Philadelphia Eagles",
-        "abbreviation": "PHI",
-        "score": 14,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 5,
-          "losses": 1,
-          "ties": 0
-        },
-        "moneyLine": -305
-      },
-      "startTime": "2023-10-15T20:25:00Z",
-      "spread": "PHI -6.5",
-      "finished": true
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547479",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -423,6 +388,41 @@
       },
       "startTime": "2023-10-15T20:25:00Z",
       "spread": "LAR -7.0",
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547480",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "New York Jets",
+        "abbreviation": "NYJ",
+        "score": 20,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0
+        },
+        "moneyLine": 245
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Philadelphia Eagles",
+        "abbreviation": "PHI",
+        "score": 14,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 5,
+          "losses": 1,
+          "ties": 0
+        },
+        "moneyLine": -305
+      },
+      "startTime": "2023-10-15T20:25:00Z",
+      "spread": "PHI -6.5",
       "finished": true
     },
     {
