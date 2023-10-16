@@ -510,7 +510,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": 105
+        "moneyLine": 102
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -125
+        "moneyLine": -122
       },
       "startTime": "2023-10-17T00:15:00Z",
       "spread": "DAL -1.5",
