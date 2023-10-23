@@ -397,11 +397,11 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 0,
+        "score": 31,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "ties": 0
         },
@@ -411,19 +411,19 @@
         "py/object": "classes.Team",
         "name": "Miami Dolphins",
         "abbreviation": "MIA",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 1,
+          "losses": 2,
           "ties": 0
         },
         "moneyLine": 130
       },
       "startTime": "2023-10-23T00:20:00Z",
       "spread": "PHI -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -457,7 +457,7 @@
         "moneyLine": -298
       },
       "startTime": "2023-10-24T00:15:00Z",
-      "spread": "SF -7.0",
+      "spread": "SF -6.5",
       "finished": false
     }
   ],
