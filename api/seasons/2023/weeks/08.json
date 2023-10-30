@@ -392,41 +392,6 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547501",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Arizona Cardinals",
-        "abbreviation": "ARI",
-        "score": 24,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 1,
-          "losses": 7,
-          "ties": 0
-        },
-        "moneyLine": 380
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Baltimore Ravens",
-        "abbreviation": "BAL",
-        "score": 31,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 6,
-          "losses": 2,
-          "ties": 0
-        },
-        "moneyLine": -500
-      },
-      "startTime": "2023-10-29T20:25:00Z",
-      "spread": "BAL -9.5",
-      "finished": true
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547502",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -458,6 +423,41 @@
       },
       "startTime": "2023-10-29T20:25:00Z",
       "spread": "KC -7.0",
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547501",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Arizona Cardinals",
+        "abbreviation": "ARI",
+        "score": 24,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 1,
+          "losses": 7,
+          "ties": 0
+        },
+        "moneyLine": 380
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Baltimore Ravens",
+        "abbreviation": "BAL",
+        "score": 31,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 6,
+          "losses": 2,
+          "ties": 0
+        },
+        "moneyLine": -500
+      },
+      "startTime": "2023-10-29T20:25:00Z",
+      "spread": "BAL -9.5",
       "finished": true
     },
     {
