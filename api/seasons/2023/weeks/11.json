@@ -90,7 +90,7 @@
           "losses": 2,
           "ties": 0
         },
-        "moneyLine": -355
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -100,14 +100,14 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": 280
+        "moneyLine": ""
       },
       "startTime": "2023-11-19T18:00:00Z",
-      "spread": "DET -7.5",
+      "spread": "DET -4.5",
       "finished": false
     },
     {
@@ -227,10 +227,10 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
-        "moneyLine": 310
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -244,10 +244,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -395
+        "moneyLine": ""
       },
       "startTime": "2023-11-19T18:00:00Z",
-      "spread": "DAL -9.0",
+      "spread": "DAL -3.5",
       "finished": false
     },
     {

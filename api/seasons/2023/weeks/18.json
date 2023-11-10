@@ -100,7 +100,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 2,
+          "wins": 3,
           "losses": 7,
           "ties": 0
         },
@@ -507,7 +507,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 1,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": ""
