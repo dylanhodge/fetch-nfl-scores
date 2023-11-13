@@ -292,11 +292,11 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbreviation": "ARI",
-        "score": 22,
+        "score": 25,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 1,
+          "wins": 2,
           "losses": 8,
           "ties": 0
         },
@@ -311,14 +311,14 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": -130
       },
       "startTime": "2023-11-12T21:05:00Z",
       "spread": "ATL -2.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -362,11 +362,11 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 42,
+        "score": 49,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 3,
           "ties": 0
         },
@@ -376,19 +376,19 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbreviation": "NYG",
-        "score": 7,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": 1200
       },
       "startTime": "2023-11-12T21:25:00Z",
       "spread": "DAL -17.5",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -397,11 +397,11 @@
         "py/object": "classes.Team",
         "name": "Seattle Seahawks",
         "abbreviation": "SEA",
-        "score": 19,
+        "score": 29,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 3,
           "ties": 0
         },
@@ -411,19 +411,19 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbreviation": "WSH",
-        "score": 19,
+        "score": 26,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": 225
       },
       "startTime": "2023-11-12T21:25:00Z",
       "spread": "SEA -6.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -440,7 +440,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 100
+        "moneyLine": -108
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,7 +454,7 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": -120
+        "moneyLine": -112
       },
       "startTime": "2023-11-13T01:20:00Z",
       "spread": "NYJ -1.0",
