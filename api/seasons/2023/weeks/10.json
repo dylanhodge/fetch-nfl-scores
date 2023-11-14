@@ -467,33 +467,33 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbreviation": "BUF",
-        "score": 0,
+        "score": 22,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
-        "moneyLine": -375
+        "moneyLine": -395
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbreviation": "DEN",
-        "score": 0,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 3,
+          "wins": 4,
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 295
+        "moneyLine": 310
       },
       "startTime": "2023-11-14T01:15:00Z",
       "spread": "BUF -7.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": "2023-11-10T01:15:00Z"
