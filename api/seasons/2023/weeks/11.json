@@ -467,33 +467,33 @@
         "py/object": "classes.Team",
         "name": "Kansas City Chiefs",
         "abbreviation": "KC",
-        "score": 0,
+        "score": 17,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": -135
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 0,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": 130
+        "moneyLine": 114
       },
       "startTime": "2023-11-21T01:15:00Z",
-      "spread": "KC -2.5",
-      "finished": false
+      "spread": "KC -2.0",
+      "finished": true
     }
   ],
   "startTime": "2023-11-17T01:15:00Z"
