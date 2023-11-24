@@ -87,7 +87,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 6,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": 280
@@ -100,7 +100,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 3,
           "ties": 0
         },
@@ -108,7 +108,7 @@
       },
       "startTime": "2023-11-24T01:20:00Z",
       "spread": "SF -7.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -125,7 +125,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 390
+        "moneyLine": 350
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,10 +139,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -520
+        "moneyLine": -455
       },
       "startTime": "2023-11-24T20:00:00Z",
-      "spread": "MIA -10.0",
+      "spread": "MIA -9.5",
       "finished": false
     },
     {
