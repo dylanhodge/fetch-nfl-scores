@@ -16,7 +16,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 3,
           "ties": 0
         },
@@ -227,7 +227,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": ""
@@ -370,7 +370,7 @@
           "losses": 1,
           "ties": 0
         },
-        "moneyLine": -125
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -384,10 +384,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": 105
+        "moneyLine": ""
       },
       "startTime": "2023-12-03T21:25:00Z",
-      "spread": "PHI -1.5",
+      "spread": "PHI -3.0",
       "finished": false
     },
     {
