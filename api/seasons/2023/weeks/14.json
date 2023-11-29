@@ -34,7 +34,7 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 205
+        "moneyLine": 210
       },
       "startTime": "2023-12-08T01:15:00Z",
       "spread": "PIT -6.5",
@@ -510,7 +510,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 220
+        "moneyLine": 210
       },
       "awayTeam": {
         "py/object": "classes.Team",
