@@ -107,7 +107,7 @@
         "moneyLine": -225
       },
       "startTime": "2023-12-10T18:00:00Z",
-      "spread": "DET -4.5",
+      "spread": "DET -5.0",
       "finished": false
     },
     {
@@ -317,7 +317,7 @@
         "moneyLine": -122
       },
       "startTime": "2023-12-10T21:05:00Z",
-      "spread": "MIN -1.0",
+      "spread": "MIN -1.5",
       "finished": false
     },
     {
@@ -492,7 +492,7 @@
         "moneyLine": 500
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "MIA -11.5",
+      "spread": "MIA -12.0",
       "finished": false
     },
     {
@@ -527,7 +527,7 @@
         "moneyLine": -225
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "GB -6.0",
+      "spread": "GB -5.5",
       "finished": false
     }
   ],
