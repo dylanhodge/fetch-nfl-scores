@@ -55,7 +55,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -135
+        "moneyLine": -130
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -160,7 +160,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": -155
+        "moneyLine": -162
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,10 +174,10 @@
           "losses": 4,
           "ties": 0
         },
-        "moneyLine": 130
+        "moneyLine": 136
       },
       "startTime": "2023-12-10T18:00:00Z",
-      "spread": "CLE -2.5",
+      "spread": "CLE -3.0",
       "finished": false
     },
     {
@@ -195,7 +195,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -258
+        "moneyLine": -270
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 11,
           "ties": 0
         },
-        "moneyLine": 210
+        "moneyLine": 220
       },
       "startTime": "2023-12-10T18:00:00Z",
       "spread": "NO -6.0",
@@ -265,7 +265,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -375
+        "moneyLine": -380
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -279,7 +279,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 295
+        "moneyLine": 300
       },
       "startTime": "2023-12-10T18:00:00Z",
       "spread": "BAL -7.5",
@@ -352,7 +352,7 @@
         "moneyLine": 575
       },
       "startTime": "2023-12-10T21:05:00Z",
-      "spread": "SF -13.0",
+      "spread": "SF -13.5",
       "finished": false
     },
     {
@@ -475,7 +475,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -900
+        "moneyLine": -800
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 600
+        "moneyLine": 550
       },
       "startTime": "2023-12-12T01:15:00Z",
       "spread": "MIA -13.0",
@@ -510,7 +510,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 235
+        "moneyLine": 245
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,7 +524,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -290
+        "moneyLine": -305
       },
       "startTime": "2023-12-12T01:15:00Z",
       "spread": "GB -6.5",
