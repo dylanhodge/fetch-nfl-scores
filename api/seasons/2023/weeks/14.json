@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": 136
@@ -310,7 +310,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 6,
           "ties": 0
         },
@@ -318,7 +318,7 @@
       },
       "startTime": "2023-12-10T21:05:00Z",
       "spread": "MIN -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -331,7 +331,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
+          "wins": 10,
           "losses": 3,
           "ties": 0
         },
@@ -346,14 +346,14 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 6,
-          "losses": 6,
+          "losses": 7,
           "ties": 0
         },
         "moneyLine": 675
       },
       "startTime": "2023-12-10T21:05:00Z",
       "spread": "SF -15.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -367,7 +367,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": -125
@@ -376,11 +376,11 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbreviation": "BUF",
-        "score": 17,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 6,
           "ties": 0
         },
@@ -388,7 +388,7 @@
       },
       "startTime": "2023-12-10T21:25:00Z",
       "spread": "KC -2.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -402,7 +402,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": -162
@@ -411,11 +411,11 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbreviation": "DEN",
-        "score": 17,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 6,
           "ties": 0
         },
@@ -423,7 +423,7 @@
       },
       "startTime": "2023-12-10T21:25:00Z",
       "spread": "LAC -3.0",
-      "finished": false
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -432,33 +432,33 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 0,
+        "score": 33,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
+          "wins": 10,
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -175
+        "moneyLine": -180
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 0,
+        "score": 13,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 10,
-          "losses": 2,
+          "losses": 3,
           "ties": 0
         },
-        "moneyLine": 145
+        "moneyLine": 150
       },
       "startTime": "2023-12-11T01:20:00Z",
-      "spread": "DAL -3.0",
-      "finished": false
+      "spread": "DAL -3.5",
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -475,7 +475,7 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -900
+        "moneyLine": -950
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,10 +489,10 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 600
+        "moneyLine": 625
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "MIA -13.5",
+      "spread": "MIA -14.0",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 240
+        "moneyLine": 215
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -298
+        "moneyLine": -265
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "GB -6.5",
+      "spread": "GB -6.0",
       "finished": false
     }
   ],
