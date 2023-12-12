@@ -492,7 +492,7 @@
         "moneyLine": 625
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "MIA -14.0",
+      "spread": "MIA -13.5",
       "finished": false
     },
     {
@@ -510,7 +510,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 215
+        "moneyLine": 200
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -265
+        "moneyLine": -245
       },
       "startTime": "2023-12-12T01:15:00Z",
-      "spread": "GB -6.0",
+      "spread": "GB -5.5",
       "finished": false
     }
   ],
