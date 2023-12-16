@@ -20,7 +20,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -192
+        "moneyLine": -198
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -34,7 +34,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": 160
+        "moneyLine": 164
       },
       "startTime": "2023-12-22T01:15:00Z",
       "spread": "LAR -4.0",
@@ -55,7 +55,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -122
+        "moneyLine": -118
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -69,7 +69,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 102
+        "moneyLine": -102
       },
       "startTime": "2023-12-23T21:30:00Z",
       "spread": "PIT -1.5",
@@ -125,7 +125,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -122
+        "moneyLine": -120
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -139,7 +139,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 102
+        "moneyLine": 100
       },
       "startTime": "2023-12-24T18:00:00Z",
       "spread": "ATL -1.5",
@@ -160,7 +160,7 @@
           "losses": 8,
           "ties": 0
         },
-        "moneyLine": 105
+        "moneyLine": 110
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -174,7 +174,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -125
+        "moneyLine": -130
       },
       "startTime": "2023-12-24T18:00:00Z",
       "spread": "SEA -2.0",
@@ -440,7 +440,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -218
+        "moneyLine": -230
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -454,7 +454,7 @@
           "losses": 10,
           "ties": 0
         },
-        "moneyLine": 180
+        "moneyLine": 190
       },
       "startTime": "2023-12-25T01:15:00Z",
       "spread": "DEN -5.5",
