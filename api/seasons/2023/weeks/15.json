@@ -397,7 +397,7 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbreviation": "LAR",
-        "score": 20,
+        "score": 28,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
@@ -405,13 +405,13 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -325
+        "moneyLine": -290
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbreviation": "WSH",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
@@ -419,10 +419,10 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 260
+        "moneyLine": 235
       },
       "startTime": "2023-12-17T21:05:00Z",
-      "spread": "LAR -7.0",
+      "spread": "LAR -6.5",
       "finished": false
     },
     {
@@ -432,7 +432,7 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbreviation": "ARI",
-        "score": 13,
+        "score": 22,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
@@ -440,13 +440,13 @@
           "losses": 10,
           "ties": 0
         },
-        "moneyLine": 500
+        "moneyLine": 550
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 21,
+        "score": 45,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
@@ -454,10 +454,10 @@
           "losses": 3,
           "ties": 0
         },
-        "moneyLine": -700
+        "moneyLine": -800
       },
       "startTime": "2023-12-17T21:05:00Z",
-      "spread": "SF -11.5",
+      "spread": "SF -12.5",
       "finished": false
     },
     {
@@ -467,7 +467,7 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbreviation": "BUF",
-        "score": 21,
+        "score": 31,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
@@ -481,7 +481,7 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 3,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
