@@ -90,7 +90,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -700
+        "moneyLine": -800
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -104,10 +104,10 @@
           "losses": 11,
           "ties": 0
         },
-        "moneyLine": 500
+        "moneyLine": 550
       },
       "startTime": "2023-12-31T18:00:00Z",
-      "spread": "BUF -12.0",
+      "spread": "BUF -12.5",
       "finished": false
     },
     {
@@ -195,7 +195,7 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 200
+        "moneyLine": 210
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -209,7 +209,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -245
+        "moneyLine": -258
       },
       "startTime": "2023-12-31T18:00:00Z",
       "spread": "LAR -6.0",
@@ -405,7 +405,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -218
+        "moneyLine": -230
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -419,7 +419,7 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 180
+        "moneyLine": 190
       },
       "startTime": "2023-12-31T18:00:00Z",
       "spread": "HOU -4.5",
@@ -475,7 +475,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -265
+        "moneyLine": -278
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -489,7 +489,7 @@
           "losses": 9,
           "ties": 0
         },
-        "moneyLine": 215
+        "moneyLine": 225
       },
       "startTime": "2023-12-31T21:25:00Z",
       "spread": "DEN -6.0",
@@ -510,7 +510,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": -305
+        "moneyLine": -360
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -524,10 +524,10 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 245
+        "moneyLine": 285
       },
       "startTime": "2023-12-31T21:25:00Z",
-      "spread": "KC -7.0",
+      "spread": "KC -7.5",
       "finished": false
     },
     {
