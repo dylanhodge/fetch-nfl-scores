@@ -86,11 +86,11 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -800
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -104,10 +104,10 @@
           "losses": 11,
           "ties": 0
         },
-        "moneyLine": 550
+        "moneyLine": ""
       },
       "startTime": "2023-12-31T18:00:00Z",
-      "spread": "BUF -12.5",
+      "spread": "BUF -6.0",
       "finished": false
     },
     {
@@ -450,7 +450,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 7,
           "ties": 0
         },
@@ -475,7 +475,7 @@
           "losses": 7,
           "ties": 0
         },
-        "moneyLine": -278
+        "moneyLine": ""
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -486,13 +486,13 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 9,
+          "losses": 10,
           "ties": 0
         },
-        "moneyLine": 225
+        "moneyLine": ""
       },
       "startTime": "2023-12-31T21:25:00Z",
-      "spread": "DEN -6.0",
+      "spread": "DEN -1.0",
       "finished": false
     },
     {
@@ -521,7 +521,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 6,
+          "losses": 7,
           "ties": 0
         },
         "moneyLine": ""
