@@ -537,7 +537,7 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 5,
+        "score": 19,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
@@ -551,7 +551,7 @@
         "py/object": "classes.Team",
         "name": "Baltimore Ravens",
         "abbreviation": "BAL",
-        "score": 10,
+        "score": 33,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
         "record": {
           "py/object": "classes.Record",
@@ -563,7 +563,7 @@
       },
       "startTime": "2023-12-26T01:15:00Z",
       "spread": "SF -6.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": "2023-12-22T01:15:00Z"
