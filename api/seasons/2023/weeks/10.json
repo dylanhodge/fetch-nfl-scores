@@ -87,7 +87,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": -250
@@ -122,7 +122,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
         "moneyLine": 130
@@ -170,7 +170,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 8,
           "ties": 0
         },
@@ -332,7 +332,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 10,
+          "losses": 11,
           "ties": 0
         },
         "moneyLine": 114
@@ -485,7 +485,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 8,
           "ties": 0
         },
