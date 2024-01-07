@@ -51,7 +51,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 8,
           "ties": 0
         },
@@ -66,7 +66,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 9,
+          "losses": 10,
           "ties": 0
         },
         "moneyLine": 142
@@ -121,7 +121,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 11,
+          "wins": 12,
           "losses": 5,
           "ties": 0
         },
@@ -157,7 +157,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 11,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": -142
@@ -205,7 +205,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 8,
           "ties": 0
         },
@@ -226,7 +226,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 11,
           "ties": 0
         },
@@ -275,7 +275,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 6,
+          "wins": 7,
           "losses": 10,
           "ties": 0
         },
@@ -297,7 +297,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 12,
+          "losses": 13,
           "ties": 0
         },
         "moneyLine": 370
@@ -331,7 +331,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 8,
           "ties": 0
         },
@@ -367,7 +367,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 2,
-          "losses": 14,
+          "losses": 15,
           "ties": 0
         },
         "moneyLine": 124
@@ -381,7 +381,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 7,
-          "losses": 9,
+          "losses": 10,
           "ties": 0
         },
         "moneyLine": -148
@@ -507,7 +507,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 9,
-          "losses": 7,
+          "losses": 8,
           "ties": 0
         },
         "moneyLine": 185
