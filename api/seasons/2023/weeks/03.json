@@ -17,7 +17,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 12,
-          "losses": 4,
+          "losses": 5,
           "ties": 0
         },
         "moneyLine": -535
@@ -30,7 +30,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 5,
+          "wins": 6,
           "losses": 11,
           "ties": 0
         },
@@ -171,7 +171,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 8,
-          "losses": 8,
+          "losses": 9,
           "ties": 0
         },
         "moneyLine": 205
@@ -206,7 +206,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 5,
-          "losses": 11,
+          "losses": 12,
           "ties": 0
         },
         "moneyLine": -110
@@ -262,7 +262,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 12,
+          "losses": 13,
           "ties": 0
         },
         "moneyLine": 205
@@ -366,7 +366,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 8,
+          "wins": 9,
           "losses": 8,
           "ties": 0
         },
@@ -401,7 +401,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 10,
+          "wins": 11,
           "losses": 6,
           "ties": 0
         },
@@ -437,7 +437,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 4,
-          "losses": 12,
+          "losses": 13,
           "ties": 0
         },
         "moneyLine": 470
@@ -450,7 +450,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 11,
+          "wins": 12,
           "losses": 5,
           "ties": 0
         },
@@ -471,7 +471,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 7,
+          "wins": 8,
           "losses": 9,
           "ties": 0
         },
@@ -521,7 +521,7 @@
         "record": {
           "py/object": "classes.Record",
           "wins": 11,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": -258
@@ -555,7 +555,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 9,
+          "wins": 10,
           "losses": 7,
           "ties": 0
         },
