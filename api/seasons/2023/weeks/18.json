@@ -287,6 +287,41 @@
     },
     {
       "py/object": "classes.Game",
+      "gameId": "401547643",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Green Bay Packers",
+        "abbreviation": "GB",
+        "score": 17,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0
+        },
+        "moneyLine": -148
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Chicago Bears",
+        "abbreviation": "CHI",
+        "score": 9,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0
+        },
+        "moneyLine": 124
+      },
+      "startTime": "2024-01-07T21:25:00Z",
+      "spread": "GB -2.5",
+      "finished": true
+    },
+    {
+      "py/object": "classes.Game",
       "gameId": "401547646",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -427,41 +462,6 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547643",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Green Bay Packers",
-        "abbreviation": "GB",
-        "score": 17,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 9,
-          "losses": 8,
-          "ties": 0
-        },
-        "moneyLine": -148
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Chicago Bears",
-        "abbreviation": "CHI",
-        "score": 9,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 7,
-          "losses": 10,
-          "ties": 0
-        },
-        "moneyLine": 124
-      },
-      "startTime": "2024-01-07T21:25:00Z",
-      "spread": "GB -2.5",
-      "finished": true
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547651",
       "homeTeam": {
         "py/object": "classes.Team",
@@ -537,12 +537,12 @@
         "py/object": "classes.Team",
         "name": "Miami Dolphins",
         "abbreviation": "MIA",
-        "score": 0,
+        "score": 14,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
         "record": {
           "py/object": "classes.Record",
           "wins": 11,
-          "losses": 5,
+          "losses": 6,
           "ties": 0
         },
         "moneyLine": 130
@@ -551,11 +551,11 @@
         "py/object": "classes.Team",
         "name": "Buffalo Bills",
         "abbreviation": "BUF",
-        "score": 0,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
         "record": {
           "py/object": "classes.Record",
-          "wins": 10,
+          "wins": 11,
           "losses": 6,
           "ties": 0
         },
@@ -563,7 +563,7 @@
       },
       "startTime": "2024-01-08T01:20:00Z",
       "spread": "BUF -2.5",
-      "finished": false
+      "finished": true
     }
   ],
   "startTime": "2024-01-06T21:30:00Z"
