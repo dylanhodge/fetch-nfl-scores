@@ -287,47 +287,12 @@
     },
     {
       "py/object": "classes.Game",
-      "gameId": "401547643",
-      "homeTeam": {
-        "py/object": "classes.Team",
-        "name": "Green Bay Packers",
-        "abbreviation": "GB",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 8,
-          "losses": 8,
-          "ties": 0
-        },
-        "moneyLine": -148
-      },
-      "awayTeam": {
-        "py/object": "classes.Team",
-        "name": "Chicago Bears",
-        "abbreviation": "CHI",
-        "score": 0,
-        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-        "record": {
-          "py/object": "classes.Record",
-          "wins": 7,
-          "losses": 9,
-          "ties": 0
-        },
-        "moneyLine": 124
-      },
-      "startTime": "2024-01-07T21:25:00Z",
-      "spread": "GB -2.5",
-      "finished": false
-    },
-    {
-      "py/object": "classes.Game",
       "gameId": "401547646",
       "homeTeam": {
         "py/object": "classes.Team",
         "name": "Las Vegas Raiders",
         "abbreviation": "LV",
-        "score": 0,
+        "score": 24,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
         "record": {
           "py/object": "classes.Record",
@@ -341,7 +306,7 @@
         "py/object": "classes.Team",
         "name": "Denver Broncos",
         "abbreviation": "DEN",
-        "score": 0,
+        "score": 14,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
         "record": {
           "py/object": "classes.Record",
@@ -362,7 +327,7 @@
         "py/object": "classes.Team",
         "name": "New York Giants",
         "abbreviation": "NYG",
-        "score": 0,
+        "score": 27,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
         "record": {
           "py/object": "classes.Record",
@@ -376,7 +341,7 @@
         "py/object": "classes.Team",
         "name": "Philadelphia Eagles",
         "abbreviation": "PHI",
-        "score": 0,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
         "record": {
           "py/object": "classes.Record",
@@ -397,7 +362,7 @@
         "py/object": "classes.Team",
         "name": "Arizona Cardinals",
         "abbreviation": "ARI",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
         "record": {
           "py/object": "classes.Record",
@@ -411,7 +376,7 @@
         "py/object": "classes.Team",
         "name": "Seattle Seahawks",
         "abbreviation": "SEA",
-        "score": 0,
+        "score": 13,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
         "record": {
           "py/object": "classes.Record",
@@ -432,7 +397,7 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Chargers",
         "abbreviation": "LAC",
-        "score": 0,
+        "score": 9,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
         "record": {
           "py/object": "classes.Record",
@@ -440,13 +405,13 @@
           "losses": 11,
           "ties": 0
         },
-        "moneyLine": -185
+        "moneyLine": -175
       },
       "awayTeam": {
         "py/object": "classes.Team",
         "name": "Kansas City Chiefs",
         "abbreviation": "KC",
-        "score": 0,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
         "record": {
           "py/object": "classes.Record",
@@ -454,7 +419,7 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": 154
+        "moneyLine": 145
       },
       "startTime": "2024-01-07T21:25:00Z",
       "spread": "LAC -3.5",
@@ -467,7 +432,7 @@
         "py/object": "classes.Team",
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "score": 0,
+        "score": 20,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
         "record": {
           "py/object": "classes.Record",
@@ -481,7 +446,7 @@
         "py/object": "classes.Team",
         "name": "Los Angeles Rams",
         "abbreviation": "LAR",
-        "score": 0,
+        "score": 21,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
         "record": {
           "py/object": "classes.Record",
@@ -502,7 +467,7 @@
         "py/object": "classes.Team",
         "name": "Washington Commanders",
         "abbreviation": "WSH",
-        "score": 0,
+        "score": 10,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
         "record": {
           "py/object": "classes.Record",
@@ -516,7 +481,7 @@
         "py/object": "classes.Team",
         "name": "Dallas Cowboys",
         "abbreviation": "DAL",
-        "score": 0,
+        "score": 38,
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "record": {
           "py/object": "classes.Record",
@@ -529,6 +494,41 @@
       "startTime": "2024-01-07T21:25:00Z",
       "spread": "DAL -13.0",
       "finished": false
+    },
+    {
+      "py/object": "classes.Game",
+      "gameId": "401547643",
+      "homeTeam": {
+        "py/object": "classes.Team",
+        "name": "Green Bay Packers",
+        "abbreviation": "GB",
+        "score": 17,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0
+        },
+        "moneyLine": -148
+      },
+      "awayTeam": {
+        "py/object": "classes.Team",
+        "name": "Chicago Bears",
+        "abbreviation": "CHI",
+        "score": 9,
+        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+        "record": {
+          "py/object": "classes.Record",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0
+        },
+        "moneyLine": 124
+      },
+      "startTime": "2024-01-07T21:25:00Z",
+      "spread": "GB -2.5",
+      "finished": true
     },
     {
       "py/object": "classes.Game",
@@ -545,7 +545,7 @@
           "losses": 5,
           "ties": 0
         },
-        "moneyLine": 136
+        "moneyLine": 130
       },
       "awayTeam": {
         "py/object": "classes.Team",
@@ -559,10 +559,10 @@
           "losses": 6,
           "ties": 0
         },
-        "moneyLine": -162
+        "moneyLine": -155
       },
       "startTime": "2024-01-08T01:20:00Z",
-      "spread": "BUF -3.0",
+      "spread": "BUF -2.5",
       "finished": false
     }
   ],
